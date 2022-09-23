@@ -6,8 +6,8 @@ All the useful resources I have been using to study engineering courses.
 
 ## UIUC Engineering Courses
 
-## Civil & Environmental Engineering:
+### Civil & Environmental Engineering:
 
-## Compputer Science
+### Compputer Science
 
-## Engineering Core
+### Engineering Core
