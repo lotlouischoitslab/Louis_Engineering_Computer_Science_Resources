@@ -11,9 +11,11 @@ All the useful resources I have been using to study engineering courses.
 - **CEE 416 Traffic Capacity Analysis**
   - **[Meead Sabel Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
 - **CEE 418 Public Transportation Systems**
+- **CEE 300 Behavior of Materials**
 - **CEE 310 Transportation Engineering**
-- **CEE 360 Structural Engineering**
 - **CEE 320 Construction Engineering**
+- **CEE 350 Water Resources Management**
+- **CEE 360 Structural Engineering**
 - **CEE 201 Civil Systems Engineering & Economics**
 - **CEE 202 Engineering Uncertainty & Risk**
 
