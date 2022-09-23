@@ -10,6 +10,7 @@ All the useful resources I have been using to study engineering courses.
 - **CEE 415 Geometric Design of Roads**
 - **CEE 416 Traffic Capacity Analysis**
   - **[Meead Saberi Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
+  - **[Shockwave example](https://www.youtube.com/watch?v=9QFy9iREWsY)**
 - **CEE 418 Public Transportation Systems**
 - **CEE 300 Behavior of Materials**
 - **CEE 310 Transportation Engineering**
