@@ -9,7 +9,7 @@ All the useful resources I have been using to study engineering courses.
 ### Civil & Environmental Engineering:
 - **CEE 415 Geometric Design of Roads**
 - **CEE 416 Traffic Capacity Analysis**
-  -[Meead Sabel Traffic Engineering](https://www.youtube.com/user/meeadsk/videos) 
+  - **[Meead Sabel Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
 - **CEE 418 Public Transportation Systems**
 - **CEE 310 Transportation Engineering**
 - **CEE 360 Structural Engineering**
