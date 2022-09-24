@@ -29,8 +29,8 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 128 Introduction to Computer Science 2 C++**
   - 0. [C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 - **CS 173 Discrete Structures**
-  - 0. [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
-  - 1. [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
+  - 00. [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
+  - 01. [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
 - **CS 225 Data Structures & Software Principles C++**
   - 0. [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 - **CS 340 Introduction to Computer Systems**
