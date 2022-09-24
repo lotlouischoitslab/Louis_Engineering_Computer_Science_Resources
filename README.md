@@ -78,9 +78,9 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [Professor Butler Calculus 3 Final Review](https://www.youtube.com/watch?v=EC3x4OFrnHk)
 
  - **MATH 257 Linear Algebra with Computational Applications**
-  - [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
-  - [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
-  - [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)
+    - [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+    - [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
+    - [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)
 
 - **MATH 285 Ordinary Differential Equations**
   - [Professor Leonard Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)
