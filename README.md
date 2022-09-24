@@ -29,14 +29,15 @@ All the useful resources I have been using to study engineering courses.
   - [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
 - **CS 225 Data Structures & Software Principles C++**
   - 0. [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
+- **CS 340 Introduction to Computer Systems**
+- **CS 357 Numerical Methods 1 Python**
+    - 00. [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 - **CS 374 Algorithms & Models of Computation**
   - **Algorithms**
     - 0. [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
   - **Models of Computation**
     - 0. [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)
-- **CS 357 Numerical Methods 1 Python**
-    - 00. [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
-- **CS 340 Introduction to Computer Systems**
+    
 - **CS 411 Database Systems**
 - **CS 440 Artificial Intelligence**
 - **CS 441 Applied Machine Learning**
