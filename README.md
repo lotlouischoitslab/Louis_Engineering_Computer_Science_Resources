@@ -77,8 +77,7 @@ https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNz
 https://www.youtube.com/watch?v=EC3x4OFrnHk
 https://www.youtube.com/watch?v=Ej_02ICOIgs  (Python Tutorial)
 
-MATH 285 Ordinary Differential Equations 
-https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_
+- [MATH 285 Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)
 
 CHEM 102 103 104 105 General Chemistry
 https://www.youtube.com/watch?v=-KfG8kH-r3Y&list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS
