@@ -27,7 +27,7 @@ All the useful resources I have been using to study engineering courses.
 - **CS 225 Data Structures & Software Principles C++**
 - **CS 374 Algorithms & Models of Computation**
   - **Algorithms**
-    - [Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
+    - 00. [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
   - **Models of Computation**
     -
 - **CS 357 Numerical Methods 1 Python**
