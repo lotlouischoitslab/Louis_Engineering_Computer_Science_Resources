@@ -6,7 +6,7 @@ All the useful resources I have been using to study engineering courses.
 
 ## UIUC Engineering Courses
 I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science. Here are the resources I had to use to study for the courses I took at UIUC. 
-### Civil & Environmental Engineering:</br> Specialization: Transportation Engineering
+### Civil & Environmental Engineering (Specialization: Transportation Engineering):
 - **CEE 415 Geometric Design of Roads**
 - **CEE 416 Traffic Capacity Analysis**
   - **[Meead Saberi Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
