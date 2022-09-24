@@ -24,19 +24,19 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
 - **CS 124 Introduction to Computer Science 1 Java**
-   - 0. [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
-   - 1. [Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d )
+   - [0] [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
+   - [1] [Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d )
 - **CS 128 Introduction to Computer Science 2 C++**
   - 0. [C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 - **CS 173 Discrete Structures**
-  - 00. [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
-  - 01. [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
+  - [0] [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
+  - [1] [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
 - **CS 225 Data Structures & Software Principles C++**
   - 0. [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 - **CS 340 Introduction to Computer Systems**
   - [Professor Wade Fagen-Ulmschneider's Important Note](https://waf.cs.illinois.edu/pages/cs340/)
 - **CS 357 Numerical Methods 1 Python**
-    - 00. [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+    - 0. [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 - **CS 374 Algorithms & Models of Computation**
   - **Algorithms**
     - 0. [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
