@@ -17,6 +17,7 @@ All the useful resources I have been using to study engineering courses.
 - **CEE 320 Construction Engineering**
 - **CEE 350 Water Resources Management**
 - **CEE 360 Structural Engineering**
+ - **[Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
 - **CEE 201 Civil Systems Engineering & Economics**
 - **CEE 202 Engineering Uncertainty & Risk**
 
