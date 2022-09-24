@@ -23,7 +23,9 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 ### Computer Science:
 - **CS 124 Introduction to Computer Science 1 Java**
+   - [Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d )
 - **CS 128 Introduction to Computer Science 2 C++**
+  - [C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 - **CS 173 Discrete Structures**
   - [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
   - [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
@@ -49,9 +51,16 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 ### Engineering Core
 - **TAM 211 Engineering Statics**
+  - [Jeff Hanson Statics](https://www.youtube.com/watch?v=TqFYnSFX_L4&list=PLRqDfxcafc23LXGoItpkYMKtUdHaQwSDC)
+  - [Structures Free Statics](https://youtube.com/playlist?list=PL6474BBA9E3FC8FDC)
 - **TAM 212 Engineering Dynamics**
+  - [Jeff Hanson Dynamics](https://www.youtube.com/watch?v=dmq0PHF837M&list=PLRqDfxcafc206fNQPkcBUFEMYje-UjtqA)
+  - [Structures Free Dynamics](https://www.youtube.com/watch?v=olasVZilLRA&list=PL81251F4A3D0AF09B)
 - **TAM 251 Engineering Solid Mechanics**
-- **TAM 335 Engineering Fluid Mechanics**
+  - [Jeff Hanson Solid Mechanics](https://www.youtube.com/watch?v=RkS8DjzvEvM&list=PLRqDfxcafc21wlI3E56IkDmRJ-33apMjv)
+  - [Structures Free Solid Mechanics](https://www.youtube.com/watch?v=DjTFIAeeMiY&list=PLCBF826FE563C57B0)
+- **TAM 335 Engineering Fluid Mechanics or ME 310 or CEE 331**
+  - [CPPMechEngTutorials](https://www.youtube.com/watch?v=PXjZ7xEAqsU&list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe)
 - **SE 101 Engineering Graphics Design**
 - **ECE 205 Introduction to Electronics**
 - **STAT 400 Statistics & Probability 1**
