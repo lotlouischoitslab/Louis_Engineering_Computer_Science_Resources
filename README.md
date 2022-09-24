@@ -50,7 +50,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 444 Deep Learning for Computer Vision**
 - **CS 588 Autonomous Vehicles Systems Engineering**
 
-### Engineering Core
+### ENGINEERING CORE REQUIREMENTS
 - **TAM 211 Engineering Statics**
   - [Jeff Hanson Statics](https://www.youtube.com/watch?v=TqFYnSFX_L4&list=PLRqDfxcafc23LXGoItpkYMKtUdHaQwSDC)
   - [Structures Free Statics](https://youtube.com/playlist?list=PL6474BBA9E3FC8FDC)
@@ -65,3 +65,40 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **SE 101 Engineering Graphics Design**
 - **ECE 205 Introduction to Electronics**
 - **STAT 400 Statistics & Probability 1**
+
+- ### MATH PRACTICE: https://tutorial.math.lamar.edu/ 
+
+- [MATH 220 221 231 Calculus 1 2](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
+- [MATH 241 Calculus 3](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+
+ - [MATH 257 Linear Algebra with Computational Applications]
+https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D
+https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL
+https://www.youtube.com/watch?v=EC3x4OFrnHk
+https://www.youtube.com/watch?v=Ej_02ICOIgs  (Python Tutorial)
+
+MATH 285 Ordinary Differential Equations 
+https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_
+
+CHEM 102 103 104 105 General Chemistry
+https://www.youtube.com/watch?v=-KfG8kH-r3Y&list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS
+CHEM 102 FINAL REVIEW
+https://www.youtube.com/watch?v=5yw1YH7YA7c
+CHEM 104 FINAL REVIEW
+https://www.youtube.com/watch?v=lSmJN1_uVpI 
+
+PHYS 211 Physics Mechanics 
+https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
+
+PHYS 212 Physics EM
+https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
+
+PHYS 213 Physics Thermo
+https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
+
+PHYS 214 Physics Quantum
+https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
+
+
+
+
