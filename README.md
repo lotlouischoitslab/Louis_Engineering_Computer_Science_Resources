@@ -41,6 +41,7 @@ All the useful resources I have been using to study engineering courses.
 - **CS 440 Artificial Intelligence**
 - **CS 441 Applied Machine Learning**
 - **CS 444 Deep Learning for Computer Vision**
+- **CS 588 Autonomous Vehicles Systems Engineering**
 
 ### Engineering Core
 - **TAM 211 Engineering Statics**
