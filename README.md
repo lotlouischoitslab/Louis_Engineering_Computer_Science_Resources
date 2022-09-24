@@ -21,7 +21,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CEE 201 Civil Systems Engineering & Economics**
 - **CEE 202 Engineering Uncertainty & Risk**
 
-### Computer Science:
+### Computer Science (Focus Area: Artificial Intelligence & Big Data):
 - **CS 124 Introduction to Computer Science 1 Java**
    - [Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d )
 - **CS 128 Introduction to Computer Science 2 C++**
