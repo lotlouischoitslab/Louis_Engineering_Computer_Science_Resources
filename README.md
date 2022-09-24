@@ -24,6 +24,8 @@ All the useful resources I have been using to study engineering courses.
 - **CS 124 Introduction to Computer Science 1 Java**
 - **CS 128 Introduction to Computer Science 2 C++**
 - **CS 173 Discrete Structures**
+  - [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
+  - [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
 - **CS 225 Data Structures & Software Principles C++**
   - 0. [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 - **CS 374 Algorithms & Models of Computation**
