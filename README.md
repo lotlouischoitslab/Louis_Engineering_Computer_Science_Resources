@@ -38,6 +38,7 @@ All the useful resources I have been using to study engineering courses.
     - 00. [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 - **CS 340 Introduction to Computer Systems**
 - **CS 411 Database Systems**
+- **CS 440 Artificial Intelligence**
 - **CS 441 Applied Machine Learning**
 - **CS 444 Deep Learning for Computer Vision**
 
