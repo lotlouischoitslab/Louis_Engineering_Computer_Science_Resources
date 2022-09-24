@@ -24,12 +24,13 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
 - **CS 124 Introduction to Computer Science 1 Java**
-   - [Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d )
+   - 0. [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
+   - 1. [Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d )
 - **CS 128 Introduction to Computer Science 2 C++**
-  - [C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+  - 0. [C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 - **CS 173 Discrete Structures**
-  - [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
-  - [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
+  - 0. [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
+  - 1. [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
 - **CS 225 Data Structures & Software Principles C++**
   - 0. [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 - **CS 340 Introduction to Computer Systems**
@@ -67,18 +68,22 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **ECE 205 Introduction to Electronics**
 - **STAT 400 Statistics & Probability 1**
 
-- ### MATH PRACTICE: https://tutorial.math.lamar.edu/ 
+- **[MATH PRACTICE](https://tutorial.math.lamar.edu/)** 
 
-- [MATH 220 221 231 Calculus 1 2](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
-- [MATH 241 Calculus 3](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+- **MATH 220 221 231 Calculus 1 2**
+  - [Organic Chemistry Tutor Calculus 1 2 3](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
+  
+- **MATH 241 Calculus 3**
+  - [Legendary Professor Leonard Calculus 3 Tutorial](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+  - [Professor Butler Calculus 3 Final Review](https://www.youtube.com/watch?v=EC3x4OFrnHk)
 
  - [MATH 257 Linear Algebra with Computational Applications]
-https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D
-https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL
-https://www.youtube.com/watch?v=EC3x4OFrnHk
-https://www.youtube.com/watch?v=Ej_02ICOIgs  (Python Tutorial)
+  - [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+  - [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
+  - [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)
 
-- [MATH 285 Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)
+- [MATH 285 Ordinary Differential Equations]
+  - [Professor Leonard Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)
 
 CHEM 102 103 104 105 General Chemistry
 https://www.youtube.com/watch?v=-KfG8kH-r3Y&list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS
