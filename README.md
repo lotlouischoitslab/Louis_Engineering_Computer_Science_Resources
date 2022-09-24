@@ -39,6 +39,9 @@ All the useful resources I have been using to study engineering courses.
     - 0. [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)
     
 - **CS 411 Database Systems**
+- **CS 421 Programming Languages & Compilers**
+  - [CS 421 Spring 2022](https://uiuc-cs421-sp22.netlify.app/lectures/)
+  - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
 - **CS 440 Artificial Intelligence**
 - **CS 441 Applied Machine Learning**
 - **CS 444 Deep Learning for Computer Vision**
