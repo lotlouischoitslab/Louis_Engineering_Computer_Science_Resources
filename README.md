@@ -18,7 +18,8 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
 - **CEE 360 Structural Engineering (0.50)**
   - **[Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
-- **CEE 320 Construction Engineering (1.50)**
+- **CEE 320 Construction Engineering (1.50)** 
+  - **[Project Management for Construction](https://www.cmu.edu/cee/projects/PMbook/)**
 - **CEE 350 Water Resources Management (1.30)**
 - **CEE 300 Behavior of Materials (1.00)**
 - **CEE 201 Civil Systems Engineering & Economics**
