@@ -7,18 +7,20 @@ All the useful resources I have been using to study engineering courses.
 ## UIUC Engineering Courses
 I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science. Here are the resources I had to use to study for the courses I took at UIUC. 
 ### Civil & Environmental Engineering (Specialization: Transportation Engineering):
-- **CEE 415 Geometric Design of Roads**
-- **CEE 416 Traffic Capacity Analysis**
+- **CEE 400 lvl Rail (1.00) TBA**
+- **CEE 400 lvl Facilitites (2.00 or 2.50) TBA**
+- **CEE 415 Geometric Design of Roads (3.00)**
+- **CEE 416 Traffic Capacity Analysis (1.50)**
   - **[Meead Saberi Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
   - **[Shockwave example](https://www.youtube.com/watch?v=9QFy9iREWsY)**
-- **CEE 418 Public Transportation Systems**
-- **CEE 310 Transportation Engineering**
+- **CEE 418 Public Transportation Systems (1.00)**
+- **CEE 310 Transportation Engineering (1.00)**
   - **[Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
-- **CEE 360 Structural Engineering**
+- **CEE 360 Structural Engineering (0.50)**
   - **[Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
-- **CEE 320 Construction Engineering**
-- **CEE 350 Water Resources Management**
-- **CEE 300 Behavior of Materials**
+- **CEE 320 Construction Engineering (1.50)**
+- **CEE 350 Water Resources Management (1.30)**
+- **CEE 300 Behavior of Materials (1.00)**
 - **CEE 201 Civil Systems Engineering & Economics**
 - **CEE 202 Engineering Uncertainty & Risk**
 
@@ -34,6 +36,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [2] [CS 173 Practice Materials](https://courses.grainger.illinois.edu/cs173/sp2019/A-lecture/Exams/index.html)
 - **CS 225 Data Structures & Software Principles C++**
   - [0] [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
+  - [1] [Louis' C++ Repository](https://github.com/lotlouischoitslab/CPP_Louis)
 - **CS 340 Introduction to Computer Systems**
   - [0] [Professor Wade Fagen-Ulmschneider's Important Note](https://waf.cs.illinois.edu/pages/cs340/)
 - **CS 357 Numerical Methods 1 Python**
