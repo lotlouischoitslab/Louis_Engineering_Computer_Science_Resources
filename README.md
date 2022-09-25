@@ -4,7 +4,7 @@ All the useful resources I have been using to study engineering courses.
 ## Contributors:
 - ### Louis Sungwoo Cho (조성우)
 
-## UIUC Engineering Courses
+## UIUC Grainger College of Engineering Courses
 I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science. Here are the resources I had to use to study for the courses I took at UIUC. 
 ### Civil & Environmental Engineering (Specialization: Transportation Engineering):
 - **CEE 400 lvl Rail (1.00) TBA**
