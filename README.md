@@ -27,21 +27,22 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
    - [0] [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
    - [1] [Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d )
 - **CS 128 Introduction to Computer Science 2 C++**
-  - 0. [C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+  - [0] [C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 - **CS 173 Discrete Structures**
   - [0] [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
   - [1] [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
 - **CS 225 Data Structures & Software Principles C++**
-  - 0. [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
+  - [0] [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 - **CS 340 Introduction to Computer Systems**
   - [Professor Wade Fagen-Ulmschneider's Important Note](https://waf.cs.illinois.edu/pages/cs340/)
 - **CS 357 Numerical Methods 1 Python**
-    - 0. [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+    - [0] [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 - **CS 374 Algorithms & Models of Computation**
   - **Algorithms**
-    - 0. [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
+    - [0] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
   - **Models of Computation**
-    - 0. [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)
+    - [0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)
+  - **Louis LeetCode Stuff [GO HERE](https://github.com/lotlouischoitslab/LeetCode_Grind)**
 - **CS 421 Programming Languages & Compilers**
   - [CS 421 Spring 2022](https://uiuc-cs421-sp22.netlify.app/lectures/)
   - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
@@ -88,8 +89,8 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 - **CHEM 102 103 104 105 General Chemistry**
   - [Organic Chemistry Tutor General Chemistry Playlist](https://www.youtube.com/watch?v=-KfG8kH-r3Y&list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS)
-    - [CHEM 102 FINAL REVIEW](https://www.youtube.com/watch?v=5yw1YH7YA7c)
-    - [CHEM 104 FINAL REVIEW](https://www.youtube.com/watch?v=lSmJN1_uVpI)
+  - [CHEM 102 FINAL REVIEW](https://www.youtube.com/watch?v=5yw1YH7YA7c)
+  - [CHEM 104 FINAL REVIEW](https://www.youtube.com/watch?v=lSmJN1_uVpI)
 
 PHYS 211 Physics Mechanics 
 https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
