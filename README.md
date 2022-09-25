@@ -46,12 +46,12 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [CS 421 Spring 2022](https://uiuc-cs421-sp22.netlify.app/lectures/)
   - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
 
-#### [AI & BIG DATA COURSES FROM HERE REFER TO MY REPOSITORY LINK](https://github.com/lotlouischoitslab/AI_Python_Louis)
+#### AI & BIG DATA COURSES [GO TO MY REPOSITORY LINK](https://github.com/lotlouischoitslab/AI_Python_Louis)
 - **CS 411 Database Systems [GO HERE](https://github.com/lotlouischoitslab/Database_Systems_Louis)**
 - **CS 440 Artificial Intelligence**
 - **CS 441 Applied Machine Learning**
 - **CS 444 Deep Learning for Computer Vision**
-- **CS 588 Autonomous Vehicles Systems Engineering**
+- **CS 588 Autonomous Vehicles Systems Engineering [GO HERE](https://github.com/lotlouischoitslab/Autonomous_Vehicles_Stuff)**
 
 ### ENGINEERING CORE REQUIREMENTS
 - **TAM 211 Engineering Statics**
