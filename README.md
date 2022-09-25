@@ -42,11 +42,12 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
     - 0. [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
   - **Models of Computation**
     - 0. [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)
-    
-- **CS 411 Database Systems**
 - **CS 421 Programming Languages & Compilers**
   - [CS 421 Spring 2022](https://uiuc-cs421-sp22.netlify.app/lectures/)
   - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
+
+#### [AI & BIG DATA COURSES FROM HERE REFER TO MY REPOSITORY LINK](https://github.com/lotlouischoitslab/AI_Python_Louis)
+- **CS 411 Database Systems**
 - **CS 440 Artificial Intelligence**
 - **CS 441 Applied Machine Learning**
 - **CS 444 Deep Learning for Computer Vision**
