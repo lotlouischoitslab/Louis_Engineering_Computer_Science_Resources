@@ -70,7 +70,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **ECE 205 Introduction to Electronics**
 - **STAT 400 Statistics & Probability 1**
 
-- **[MATH PRACTICE](https://tutorial.math.lamar.edu/)** 
+- **MATH PRACTICE [GO HERE](https://tutorial.math.lamar.edu/)** 
 
 - **MATH 220 221 231 Calculus 1 2**
   - [Organic Chemistry Tutor Calculus 1 2 3](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
