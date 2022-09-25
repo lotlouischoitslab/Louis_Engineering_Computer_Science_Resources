@@ -35,7 +35,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 225 Data Structures & Software Principles C++**
   - [0] [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 - **CS 340 Introduction to Computer Systems**
-  - [Professor Wade Fagen-Ulmschneider's Important Note](https://waf.cs.illinois.edu/pages/cs340/)
+  - [0] [Professor Wade Fagen-Ulmschneider's Important Note](https://waf.cs.illinois.edu/pages/cs340/)
 - **CS 357 Numerical Methods 1 Python**
     - [0] [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 - **CS 374 Algorithms & Models of Computation**
