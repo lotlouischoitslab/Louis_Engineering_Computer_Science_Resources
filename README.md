@@ -12,13 +12,13 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[Meead Saberi Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
   - **[Shockwave example](https://www.youtube.com/watch?v=9QFy9iREWsY)**
 - **CEE 418 Public Transportation Systems**
-- **CEE 300 Behavior of Materials**
 - **CEE 310 Transportation Engineering**
   - **[Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
-- **CEE 320 Construction Engineering**
-- **CEE 350 Water Resources Management**
 - **CEE 360 Structural Engineering**
   - **[Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
+- **CEE 320 Construction Engineering**
+- **CEE 350 Water Resources Management**
+- **CEE 300 Behavior of Materials**
 - **CEE 201 Civil Systems Engineering & Economics**
 - **CEE 202 Engineering Uncertainty & Risk**
 
