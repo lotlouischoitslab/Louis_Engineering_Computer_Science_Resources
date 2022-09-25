@@ -92,17 +92,17 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [CHEM 102 FINAL REVIEW](https://www.youtube.com/watch?v=5yw1YH7YA7c)
   - [CHEM 104 FINAL REVIEW](https://www.youtube.com/watch?v=lSmJN1_uVpI)
 
-PHYS 211 Physics Mechanics 
-https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
+- **PHYS 211 Physics Mechanics**
+   - [Organic Chemistry Tutor General Physics 1](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
 
-PHYS 212 Physics EM
-https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
+- **PHYS 212 Physics Electricity & Magnetism**
+  - [Organic Chemistry Tutor General Physics 2](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
 
-PHYS 213 Physics Thermo
-https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
+- **PHYS 213 Physics Thermal Physics**
+  - [Organic Chemistry Tutor General Physics 3](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
 
-PHYS 214 Physics Quantum
-https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR
+- **PHYS 214 Physics Quantum Physics**
+  - [Organic Chemistry Tutor General Physics 4](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
 
 
 
