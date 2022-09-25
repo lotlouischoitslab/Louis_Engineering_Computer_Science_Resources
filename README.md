@@ -31,6 +31,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 173 Discrete Structures**
   - [0] [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
   - [1] [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
+  - [2] [CS 173 Practice Materials](https://courses.grainger.illinois.edu/cs173/sp2019/A-lecture/Exams/index.html)
 - **CS 225 Data Structures & Software Principles C++**
   - [0] [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 - **CS 340 Introduction to Computer Systems**
@@ -38,6 +39,9 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 357 Numerical Methods 1 Python**
     - [0] [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
 - **CS 374 Algorithms & Models of Computation**
+  - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson](https://courses.engr.illinois.edu/cs374/sp2018/A/)**
+  - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
+  - **[CS/ECE 374A Professor Jeff Erickson Recommended Resources](https://courses.engr.illinois.edu/cs374/sp2021/resources.html)**
   - **Algorithms**
     - [0] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
   - **Models of Computation**
