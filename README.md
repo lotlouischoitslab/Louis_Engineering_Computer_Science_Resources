@@ -24,11 +24,12 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CEE 400 lvl Facilitites (2.00 or 2.50) TBA**
 - **CEE 415 Geometric Design of Roads (3.00)**
 - **CEE 416 Traffic Capacity Analysis (1.50)**
-  - **[Meead Saberi Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
-  - **[Shockwave example](https://www.youtube.com/watch?v=9QFy9iREWsY)**
+  - **[0] [Meead Saberi Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
+  - **[1] [Shockwave example](https://www.youtube.com/watch?v=9QFy9iREWsY)**
 - **CEE 418 Public Transportation Systems (1.00)**
 - **CEE 310 Transportation Engineering (1.00)**
-  - **[Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
+  - **[0] [Fundamentals of Transportation](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation)**
+  - **[1] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
 - **CEE 360 Structural Engineering (0.50)**
   - **[Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
 - **CEE 320 Construction Engineering (1.50)** 
