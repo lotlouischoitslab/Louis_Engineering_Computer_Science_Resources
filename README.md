@@ -70,7 +70,8 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
 
 - **CS 411 Database Systems [GO HERE FOR DATABASE PROGRAMMING](https://github.com/lotlouischoitslab/Database_Systems_Louis)**
-  - [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+  - [0] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
+  - [1] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 ### AI COURSES [GO TO MY REPOSITORY LINK](https://github.com/lotlouischoitslab/AI_Python_Louis)
 - **CS 440 Artificial Intelligence**
 - **CS 441 Applied Machine Learning**
