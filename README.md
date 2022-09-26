@@ -54,7 +54,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 340 Introduction to Computer Systems**
   - [0] [Professor Wade Fagen-Ulmschneider's Important Note CS 340 VS CS 233 & CS 341](https://waf.cs.illinois.edu/pages/cs340/)
 - **CS 357 Numerical Methods 1 Python**
-    - [0] [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+   - [0] [Louis' Python Repository](https://github.com/lotlouischoitslab/AI_Python_Louis)
 - **CS 374 Algorithms & Models of Computation**
   - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson](https://courses.engr.illinois.edu/cs374/sp2018/A/)**
   - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
