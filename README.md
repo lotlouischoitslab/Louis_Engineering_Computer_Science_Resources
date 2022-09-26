@@ -77,6 +77,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **SE 101 Engineering Graphics Design**
 - **ECE 205 Introduction to Electronics**
 - **STAT 400 Statistics & Probability 1**
+  - **[David Dalpiaz STAT 400 Stuff](https://daviddalpiaz.github.io/stat400sp18/)**
 
 - **MATH PRACTICE [GO HERE](https://tutorial.math.lamar.edu/)** 
 
