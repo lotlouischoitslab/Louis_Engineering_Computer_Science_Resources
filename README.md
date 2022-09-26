@@ -7,7 +7,7 @@ All the useful resources I have been using to study for engineering courses. Cou
 ## UIUC Grainger College of Engineering Courses
 I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science. Here are the resources I had to use to study for the courses I took at UIUC. 
 
-## Legend:
+### Legend:
   - **CEE: Civil & Environmental Engineering**
   - **CS: Computer Science**
   - **ECE: Electrical & Computer Engineering**
