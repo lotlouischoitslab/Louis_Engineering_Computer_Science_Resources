@@ -65,7 +65,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 588 Autonomous Vehicles Systems Engineering [GO HERE](https://github.com/lotlouischoitslab/Autonomous_Vehicles_Stuff)**
 
 ### ENGINEERING CORE REQUIREMENTS
-- **TAM 211 Engineering Statics**
+- **TAM 210/211 Engineering Statics**
   - [Jeff Hanson Statics](https://www.youtube.com/watch?v=TqFYnSFX_L4&list=PLRqDfxcafc23LXGoItpkYMKtUdHaQwSDC)
   - [Structures Free Statics](https://youtube.com/playlist?list=PL6474BBA9E3FC8FDC)
 - **TAM 212 Engineering Dynamics**
