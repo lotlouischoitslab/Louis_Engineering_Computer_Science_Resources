@@ -1,5 +1,5 @@
 # Louis Sungwoo Cho Engineering Resources
-All the useful resources I have been using to study engineering courses.
+All the useful resources I have been using to study for engineering courses.
 
 ## Contributors:
 - ### Louis Sungwoo Cho (조성우)
