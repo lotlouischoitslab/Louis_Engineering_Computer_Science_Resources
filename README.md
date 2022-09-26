@@ -10,9 +10,10 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 ## Legend:
   - **CEE: Civil & Environmental Engineering**
   - **CS: Computer Science**
-  - **TAM: Theoretical & Applied Mechanics**
   - **ECE: Electrical & Computer Engineering**
+  - **ME: Mechanical Engineering**
   - **SE: Systems Engineering & Design**
+  - **TAM: Theoretical & Applied Mechanics**
   - **MATH: Mathematics**
   - **STAT: Statistics**
   - **CHEM: Chemistry**
