@@ -6,6 +6,18 @@ All the useful resources I have been using to study engineering courses.
 
 ## UIUC Grainger College of Engineering Courses
 I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science. Here are the resources I had to use to study for the courses I took at UIUC. 
+
+## Legend:
+  - **CEE: Civil & Environmental Engineering**
+  - **CS: Computer Science**
+  - **TAM: Theoretical & Applied Mechanics**
+  - **ECE: Electrical & Computer Engineering**
+  - **SE: Systems Engineering & Design**
+  - **MATH: Mathematics**
+  - **STAT: Statistics**
+  - **CHEM: Chemistry**
+  - **PHYS: Physics**
+
 ### Civil & Environmental Engineering (Specialization: Transportation Engineering):
 - **CEE 400 lvl Rail (1.00) TBA**
 - **CEE 400 lvl Facilitites (2.00 or 2.50) TBA**
