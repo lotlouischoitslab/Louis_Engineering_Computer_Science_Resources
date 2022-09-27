@@ -63,6 +63,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [1] [Louis' C Repository](https://github.com/lotlouischoitslab/C_Louis)
 - **CS 357 Numerical Methods 1 Python**
    - [0] [Louis' Python Repository](https://github.com/lotlouischoitslab/AI_Python_Louis)
+   - [1] [Professor Mariana Silva CS 357 Spring 2022](https://courses.grainger.illinois.edu/cs357/sp2022/)
 - **CS 374 Introduction to Algorithms & Models of Computation**
   - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson](https://courses.engr.illinois.edu/cs374/sp2018/A/)**
   - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
