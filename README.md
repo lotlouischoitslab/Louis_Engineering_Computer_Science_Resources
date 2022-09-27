@@ -7,7 +7,7 @@ All the useful resources I have been using to study for engineering courses. Cou
 ## Good Study Songs:
   - [Korean Rap Playlist 한국랩 모음](https://open.spotify.com/playlist/4MKcxPEZhNdkwtceHZhW3p)
   - [Korean Pop Music Playlist 한국노래 모음](https://open.spotify.com/playlist/4LsC7WDPeSb8kZcoVdjEsJ)
-  - [IU Songs in Piano](https://www.youtube.com/watch?v=tfQvQ4SY4tA&t=92s)
+  - [IU Songs in Piano 아이유 피아노 노래](https://www.youtube.com/watch?v=tfQvQ4SY4tA&t=92s)
   - [Pop Songs Playlist 팝 모음](https://open.spotify.com/playlist/5HJntlLQbwMmOiBU6z4qUC)
 
 ## UIUC Grainger College of Engineering Courses
