@@ -57,9 +57,10 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [3] [Jongwoo Jeon's Discrete Mathematics Wiki](https://github.com/jongwoojeff/DiscreteMathematics/wiki)
 - **CS 225 Data Structures & Software Principles C++**
   - [0] [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
-  - [1] [Louis' C++ Repository](https://github.com/lotlouischoitslab/CPP_Louis)
+  - [1] [Louis' C++ DSA Repository](https://github.com/lotlouischoitslab/CPP_Louis)
 - **CS 340 Introduction to Computer Systems**
   - [0] [Professor Wade Fagen-Ulmschneider's Important Note CS 340 VS CS 233 & CS 341](https://waf.cs.illinois.edu/pages/cs340/)
+  - [1] [Louis' C Repository](https://github.com/lotlouischoitslab/C_Louis)
 - **CS 357 Numerical Methods 1 Python**
    - [0] [Louis' Python Repository](https://github.com/lotlouischoitslab/AI_Python_Louis)
 - **CS 374 Introduction to Algorithms & Models of Computation**
