@@ -7,7 +7,7 @@ All the useful resources I have been using to study for engineering courses. Cou
 ## Good Study Songs:
   - [Korean Rap Playlist 한국랩 모음](https://open.spotify.com/playlist/4MKcxPEZhNdkwtceHZhW3p)
   - [Korean Pop Music Playlist 한국노래 모음](https://open.spotify.com/playlist/4LsC7WDPeSb8kZcoVdjEsJ)
-  - [Pop Songs Playlist 팝 ](https://open.spotify.com/playlist/5HJntlLQbwMmOiBU6z4qUC)
+  - [Pop Songs Playlist 팝 모음](https://open.spotify.com/playlist/5HJntlLQbwMmOiBU6z4qUC)
 
 ## UIUC Grainger College of Engineering Courses
 I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science. Here are the resources I had to use to study for the courses I took at UIUC. 
