@@ -71,7 +71,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[CS/ECE 374A Professor Jeff Erickson Recommended Resources](https://courses.engr.illinois.edu/cs374/sp2021/resources.html)**
   - **Algorithms**
     - [0] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
-    - [1] [FreeCodeCamp Backtracking Tutorial](https://www.youtube.com/watch?v=A80YzvNwqXA)
+    - [1] [Lynn Zheng Backtracking Tutorial](https://www.youtube.com/watch?v=A80YzvNwqXA)
   - **Models of Computation**
     - [0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)
     - [1] [Neso Academy Theory of Computation & Automata Theory](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
