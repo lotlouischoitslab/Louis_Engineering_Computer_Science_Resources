@@ -87,7 +87,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
 
 - **CS 411 Database Systems**
-  - [0] [GO HERE FOR DATABASE PROGRAMMING](https://github.com/lotlouischoitslab/Database_Systems_Louis)
+  - [0] [Louis' Database Programming](https://github.com/lotlouischoitslab/Database_Systems_Louis)
   - [1] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
   - [2] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
   - [3] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
