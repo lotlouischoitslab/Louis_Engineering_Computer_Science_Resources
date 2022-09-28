@@ -75,6 +75,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
     - [0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)
     - [1] [Neso Academy Theory of Computation & Automata Theory](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
   - **Louis LeetCode Stuff [GO HERE](https://github.com/lotlouischoitslab/LeetCode_Grind)**
+  - **NeetCode [NeetCode Website](https://www.youtube.com/c/NeetCode)**
 - **CS 421 Programming Languages & Compilers**
   - [CS 421 Spring 2022](https://uiuc-cs421-sp22.netlify.app/lectures/)
   - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
@@ -141,7 +142,3 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 - **PHYS 214 Physics Quantum Physics**
   - [Organic Chemistry Tutor General Physics 4](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
-
-
-
-
