@@ -51,8 +51,9 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
    - [1] [Dinesh Varyani Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
    - [2] [Louis' Java Repository](https://github.com/lotlouischoitslab/Java_Louis)
 - **CS 128 Introduction to Computer Science 2 C++**
-  - [0] [C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
-  - [1] [Louis' C++ Repository](https://github.com/lotlouischoitslab/CPP_Louis)
+  - [0] [FreeCodeCamp C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+  - [1] [CodeBeauty C++ Tutorial](https://www.youtube.com/watch?v=GQp1zzTwrIg)
+  - [2] [Louis' C++ Repository](https://github.com/lotlouischoitslab/CPP_Louis)
 - **CS 173 Discrete Structures**
   - [0] [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
   - [1] [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
