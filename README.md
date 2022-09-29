@@ -94,7 +94,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [2] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
   - [3] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
   
-### AI COURSES [GO TO MY REPOSITORY LINK](https://github.com/lotlouischoitslab/AI_Python_Louis)
+### AI COURSES 
 - **CS 440 Artificial Intelligence**
 - **CS 441 Applied Machine Learning**
 - **CS 444 Deep Learning for Computer Vision**
