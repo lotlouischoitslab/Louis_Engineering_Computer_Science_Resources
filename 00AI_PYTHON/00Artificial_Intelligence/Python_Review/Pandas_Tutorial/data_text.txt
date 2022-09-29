@@ -1,0 +1,8 @@
+Class	Name	Age	Score	Result
+A	S1	20		Pass
+B	S2	19	95.0	Pass
+C	S3	21		Fail
+A	S4	22	80.0	Pass
+B	S5	24	70.0	Fail
+C	S6	25	85.0	Pass
+C	S7	26	90.0	Pass
