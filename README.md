@@ -39,7 +39,8 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CEE 360 Structural Engineering (0.50)**
   - **[Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
 - **CEE 320 Construction Engineering (1.50)** 
-  - **[Project Management for Construction](https://www.cmu.edu/cee/projects/PMbook/)**
+  - [Project Management for Construction](https://www.cmu.edu/cee/projects/PMbook/)
+  - [Midterm 1 Review](https://quizlet.com/326447172/cee-320-midterm-i-flash-cards/)
 - **CEE 350 Water Resources Management (1.30)**
 - **CEE 300 Behavior of Materials (1.00)**
 - **CEE 201 Civil Systems Engineering & Economics**
