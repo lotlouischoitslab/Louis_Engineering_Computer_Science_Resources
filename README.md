@@ -1,4 +1,4 @@
-# Louis Sungwoo Cho Engineering Resources
+## Louis Sungwoo Cho Engineering & Computer Science Resources
 All the useful resources I have been using to study for engineering and computer science courses. Courses include from Civil & Environmental Engineering, Computer Science and more.
 
 ## Contributors:
