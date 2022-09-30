@@ -96,6 +96,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   
 ### AI COURSES 
 - **CS 440 Artificial Intelligence**
+  - **[Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
 - **CS 441 Applied Machine Learning**
 - **CS 444 Deep Learning for Computer Vision**
 - **CS 588 Autonomous Vehicles Systems Engineering [GO HERE](https://github.com/lotlouischoitslab/Autonomous_Vehicles_Stuff)**
