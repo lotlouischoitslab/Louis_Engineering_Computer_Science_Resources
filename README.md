@@ -104,6 +104,10 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
    - **[Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
    - **[Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
 - **CS 444 Deep Learning for Computer Vision**
+   - **[FreeCodeCamp Deep Learning Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=12s)**
+   - **[Codebasics Deep Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)**
+   - **[Sentdex Deep Learning Tutorial](https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)**
+   - **[Hackers Realm CNN Image Classification Tutorial](https://www.youtube.com/watch?v=ENXr1foShrA)**
 - **CS 588 Autonomous Vehicles Systems Engineering [GO HERE](https://github.com/lotlouischoitslab/Autonomous_Vehicles_Stuff)**
 
 ### ENGINEERING CORE REQUIREMENTS
