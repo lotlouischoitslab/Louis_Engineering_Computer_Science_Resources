@@ -12,11 +12,7 @@
 
    
 ## Applied Machine Learning 머신러닝 응용: 
- - **[Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
- - **[Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
- - **[Codebasics Machine Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)**
- - **[Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
- - **[Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
+
 
 ## Deep Learning for Computer Vision 컴퓨터비전 딥러닝: 
  - **[FreeCodeCamp Deep Learning Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=12s)**
