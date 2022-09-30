@@ -109,6 +109,8 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
    - **[Sentdex Deep Learning Tutorial](https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)**
    - **[Hackers Realm CNN Image Classification Tutorial](https://www.youtube.com/watch?v=ENXr1foShrA)**
 - **CS 588 Autonomous Vehicles Systems Engineering [GO HERE](https://github.com/lotlouischoitslab/Autonomous_Vehicles_Stuff)**
+  - **Reinforcement Learning** 
+    - **[Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
 
 ### ENGINEERING CORE REQUIREMENTS
 - **TAM 210/211 Engineering Statics**
