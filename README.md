@@ -66,8 +66,10 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [2] [CS 173 Practice Materials](https://courses.grainger.illinois.edu/cs173/sp2019/A-lecture/Exams/index.html)
   - [3] [Jongwoo Jeon's Discrete Mathematics Wiki](https://github.com/jongwoojeff/DiscreteMathematics/wiki)
 - **CS 225 Data Structures & Software Principles C++**
-  - [0] [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
+  - [0] [MyCodeSchool C++ DSA Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)**
   - [1] [Abdul Bari DSA](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+  - [2] [FreeCodecamp C++ Coding Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+  - [3] [Fit Coder C++ Graphs Tutorial](https://youtube.com/playlist?list=PLFj4kIJmwGu3m30HfYDDufr3PZBfyngr0)
 - **CS 340 Introduction to Computer Systems**
   - [0] [Professor Wade Fagen-Ulmschneider's Important Note CS 340 VS CS 233 & CS 341](https://waf.cs.illinois.edu/pages/cs340/)
 - **CS 357 Numerical Methods 1 Python**
