@@ -52,8 +52,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
    - **[FreeCodeCamp Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)**
    - **[나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
    - **[GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
-   - **[Jovian Data Structures Tutorial](https://youtu.be/pkYVOmU3MgA)**
-   - **[Jovian Graph Tutorial](https://www.youtube.com/watch?v=SmOrBW22R2k&list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr&index=5)**
+  
 
 - **CS 124 Introduction to Computer Science 1 Java**
    - [0] [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
@@ -98,6 +97,8 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 ### AI COURSES 
 - **CS 440 Artificial Intelligence**
   - **[Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
+  - **[Jovian Data Structures Tutorial](https://youtu.be/pkYVOmU3MgA)**
+  - **[Jovian Graph Tutorial](https://www.youtube.com/watch?v=SmOrBW22R2k&list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr&index=5)**
 - **CS 441 Applied Machine Learning**
    - **[Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
    - **[Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
