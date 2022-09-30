@@ -98,6 +98,11 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 440 Artificial Intelligence**
   - **[Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
 - **CS 441 Applied Machine Learning**
+   - **[Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
+   - **[Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
+   - **[Codebasics Machine Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)**
+   - **[Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
+   - **[Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
 - **CS 444 Deep Learning for Computer Vision**
 - **CS 588 Autonomous Vehicles Systems Engineering [GO HERE](https://github.com/lotlouischoitslab/Autonomous_Vehicles_Stuff)**
 
