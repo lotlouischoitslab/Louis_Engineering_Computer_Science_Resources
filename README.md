@@ -11,7 +11,7 @@ All the useful resources I have been using to study for engineering courses. Cou
   - [Pop Songs Playlist 팝 모음](https://open.spotify.com/playlist/5HJntlLQbwMmOiBU6z4qUC)
 
 ## UIUC Grainger College of Engineering Courses
-I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science. Here are the resources I had to use to study for the courses I took at UIUC. 
+I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science. Here are the resources I had to use to study for the engineering and computer science courses I took at the University of Illinois at Urbana-Champaign. 
 
 ### Legend:
   - **CEE: Civil & Environmental Engineering**
