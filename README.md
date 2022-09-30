@@ -48,7 +48,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CEE 202 Engineering Uncertainty & Risk**
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
-### ALL Python Stuff
+ - **ALL Python Stuff**
    - **[FreeCodeCamp Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)**
    - **[나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
    - **[GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
@@ -58,11 +58,9 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 124 Introduction to Computer Science 1 Java**
    - [0] [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
    - [1] [Dinesh Varyani Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
-   - [2] [Louis' Java Repository](https://github.com/lotlouischoitslab/Java_Louis)
 - **CS 128 Introduction to Computer Science 2 C++**
   - [0] [FreeCodeCamp C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
   - [1] [CodeBeauty C++ Tutorial](https://www.youtube.com/watch?v=GQp1zzTwrIg)
-  - [2] [Louis' C++ Repository](https://github.com/lotlouischoitslab/CPP_Louis)
 - **CS 173 Discrete Structures**
   - [0] [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
   - [1] [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
@@ -71,13 +69,10 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 225 Data Structures & Software Principles C++**
   - [0] [Data Structures Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
   - [1] [Abdul Bari DSA](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-  - [2] [Louis' C++ DSA Repository](https://github.com/lotlouischoitslab/CPP_Louis)
 - **CS 340 Introduction to Computer Systems**
   - [0] [Professor Wade Fagen-Ulmschneider's Important Note CS 340 VS CS 233 & CS 341](https://waf.cs.illinois.edu/pages/cs340/)
-  - [1] [Louis' C Repository](https://github.com/lotlouischoitslab/C_Louis)
 - **CS 357 Numerical Methods 1 Python**
-   - [0] [Louis' Python Repository](https://github.com/lotlouischoitslab/AI_Python_Louis)
-   - [1] [Professor Mariana Silva CS 357 Spring 2022](https://courses.grainger.illinois.edu/cs357/sp2022/)
+   - [0] [Professor Mariana Silva CS 357 Spring 2022](https://courses.grainger.illinois.edu/cs357/sp2022/)
 - **CS 374 Introduction to Algorithms & Models of Computation**
   - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson](https://courses.engr.illinois.edu/cs374/sp2018/A/)**
   - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
@@ -96,10 +91,9 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
 
 - **CS 411 Database Systems**
-  - [0] [Louis' Database Programming](https://github.com/lotlouischoitslab/Database_Systems_Louis)
-  - [1] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
-  - [2] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
-  - [3] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
+  - [0] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
+  - [1] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+  - [2] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
   
 ### AI COURSES 
 - **CS 440 Artificial Intelligence**
