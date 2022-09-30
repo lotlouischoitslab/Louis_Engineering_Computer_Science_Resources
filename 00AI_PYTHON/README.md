@@ -15,9 +15,6 @@
 
 
 ## Deep Learning for Computer Vision 컴퓨터비전 딥러닝: 
- - **[FreeCodeCamp Deep Learning Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=12s)**
- - **[Codebasics Deep Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)**
- - **[Sentdex Deep Learning Tutorial](https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)**
- - **[Hackers Realm CNN Image Classification Tutorial](https://www.youtube.com/watch?v=ENXr1foShrA)**
+ 
 ## Reinforcement Learning 강화학습: 
- - **[Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
+ - 
