@@ -45,7 +45,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [Midterm 1 Review More](https://quizlet.com/325454603/cee-320-midterm1-flash-cards/)
 - **CEE 350 Water Resources Management (1.30)**
 - **CEE 300 Behavior of Materials (1.00)**
-- **CEE 201 Civil Systems Engineering & Economics**
+- **CEE 201 Civil & Environmental Systems Engineering & Economics**
   - [0] [Prepineer Engineering Economics Tutorial](https://youtube.com/playlist?list=PLRW1FgIW06IpkWmpIl_1qrXIPPzZdc7-V)
 - **CEE 202 Engineering Uncertainty & Risk**
 
