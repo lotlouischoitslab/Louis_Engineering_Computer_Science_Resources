@@ -128,7 +128,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **TAM 251 Engineering Solid Mechanics**
   - [Jeff Hanson Solid Mechanics](https://www.youtube.com/watch?v=RkS8DjzvEvM&list=PLRqDfxcafc21wlI3E56IkDmRJ-33apMjv)
   - [Structures Free Solid Mechanics](https://www.youtube.com/watch?v=DjTFIAeeMiY&list=PLCBF826FE563C57B0)
-- **TAM 335 Engineering Fluid Mechanics or ME 310 or CEE 331**
+- **TAM 335 Engineering Fluid Mechanics or ME 310 Fundamentals of Fluid Dyanmics**
   - [CPPMechEngTutorials Fluid Mechanics](https://www.youtube.com/watch?v=PXjZ7xEAqsU&list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe)
 - **SE 101 Engineering Graphics Design**
 - **ECE 205 Introduction to Electronics**
