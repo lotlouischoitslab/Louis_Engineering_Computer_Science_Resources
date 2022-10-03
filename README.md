@@ -47,6 +47,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CEE 300 Behavior of Materials (1.00)**
 - **CEE 201 Civil & Environmental Systems Engineering & Economics**
   - [0] [Prepineer Engineering Economics Tutorial](https://youtube.com/playlist?list=PLRW1FgIW06IpkWmpIl_1qrXIPPzZdc7-V)
+  - [1] [Yong Wang's Operation Research](https://youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
 - **CEE 202 Engineering Uncertainty & Risk**
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
