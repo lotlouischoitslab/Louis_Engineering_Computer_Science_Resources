@@ -1,5 +1,5 @@
 ## Louis Sungwoo Cho Engineering & Computer Science Resources
-All the useful resources I have been using to study for engineering and computer science courses. Courses include from Civil & Environmental Engineering, Computer Science and more.
+All the useful resources I have been using to study for engineering and computer science courses. Courses include from Civil & Environmental Engineering, Computer Science and more. Many of the CEE courses I took are Transportation Engineering courses because that is my primary specialization in CEE, likewise many of the CS courses are Artificial Intelligence & Big Data stuff because that is my focus area in CS. My primary programming language is Python so many of my projects and backend stuff are programmed in Python. For full-stack web development projects, I use HTML, CSS, JavaScript and more built-in packages.
 
 ## Contributors:
 - ### Louis Sungwoo Cho (조성우)
