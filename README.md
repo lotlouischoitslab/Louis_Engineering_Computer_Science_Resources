@@ -49,6 +49,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [0] [Prepineer Engineering Economics Tutorial](https://youtube.com/playlist?list=PLRW1FgIW06IpkWmpIl_1qrXIPPzZdc7-V)
   - [1] [Yong Wang's Operation Research](https://youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
 - **CEE 202 Engineering Uncertainty & Risk**
+  - [0] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
  - **ALL Python Stuff**
@@ -136,6 +137,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [0] [Professor Leonard Probability & Statistics](https://youtube.com/playlist?list=PL5102DFDC6790F3D0)
   - [1] [David Dalpiaz STAT 400 Stuff](https://daviddalpiaz.github.io/stat400sp18/)
   - [2] [ACADGILD Statistics Tutorial](https://youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
+  - [3] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)
 
 - **MATH PRACTICE [GO HERE](https://tutorial.math.lamar.edu/)** 
 
