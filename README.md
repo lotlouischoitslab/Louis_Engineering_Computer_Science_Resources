@@ -52,7 +52,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [0] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
- - **ALL Python Stuff**
+ - **ALL PYTHON STUFF**
    - **[FreeCodeCamp Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)**
    - **[나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
    - **[GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
@@ -99,7 +99,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [1] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
   - [2] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
   
-### AI COURSES 
+### ARTIFICIAL INTELLIGENCE COURSES 
 - **CS 440 Artificial Intelligence**
   - **[Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
   - **[Jovian Data Structures Tutorial](https://youtu.be/pkYVOmU3MgA)**
