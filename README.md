@@ -10,6 +10,14 @@ All the useful resources I have been using to study for engineering and computer
   - [30 IU Songs](https://www.youtube.com/watch?v=YlY2CJaErdE)
   - [IU Songs in Piano 아이유 피아노 모음](https://www.youtube.com/watch?v=v4eYO7qKVzA)
   - [Pop Songs Playlist 팝 모음](https://open.spotify.com/playlist/5HJntlLQbwMmOiBU6z4qUC)
+  
+## GitHub Commands:
+![title](gitcheatsheet.png)
+
+- **ALL PYTHON STUFF**
+ - **[FreeCodeCamp Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)**
+ - **[나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
+ - **[GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
 
 ## UIUC Grainger College of Engineering Courses
 I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science with a focus area in Artificial Intelligence & Big Data. Here are the resources I had to use to study for the engineering and computer science courses I took at the University of Illinois at Urbana-Champaign. 
@@ -52,11 +60,6 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [0] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
- - **ALL PYTHON STUFF**
-   - **[FreeCodeCamp Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)**
-   - **[나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
-   - **[GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
-  
 
 - **CS 124 Introduction to Computer Science 1 Java**
    - [0] [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
