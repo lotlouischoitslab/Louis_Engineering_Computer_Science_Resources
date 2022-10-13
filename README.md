@@ -12,7 +12,7 @@ All the useful resources I have been using to study for engineering and computer
   - [Pop Songs Playlist 팝 모음](https://open.spotify.com/playlist/5HJntlLQbwMmOiBU6z4qUC)
   
 ## GitHub Commands:
-[!title](gitcheatsheet.png)
+![title](gitcheatsheet.png)
 
 - **ALL PYTHON STUFF**
  - **[FreeCodeCamp Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)**
