@@ -14,7 +14,7 @@ All the useful resources I have been using to study for engineering and computer
 ## GitHub Commands:
 ![title](gitcheatsheet.png)
 
-- **ALL PYTHON STUFF**
+## ALL PYTHON STUFF:
  - **[FreeCodeCamp Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)**
  - **[나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
  - **[GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
