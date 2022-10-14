@@ -97,6 +97,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
 - **CS 440 Artificial Intelligence**
+  - **[UC Berkeley Artificial Intelligence](http://aima.cs.berkeley.edu/)**
   - **[Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
   - **[Jovian Data Structures Tutorial](https://youtu.be/pkYVOmU3MgA)**
   - **[Jovian Graph Tutorial](https://www.youtube.com/watch?v=SmOrBW22R2k&list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr&index=5)**
