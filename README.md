@@ -94,11 +94,6 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **LeetCode Stuff**
     - **Louis LeetCode Stuff [GO HERE](https://github.com/lotlouischoitslab/LeetCode_Grind)**
     - **NeetCode [NeetCode Website](https://www.youtube.com/c/NeetCode)**
-
-- **CS 411 Database Systems**
-  - [0] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
-  - [1] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
-  - [2] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
 - **CS 440 Artificial Intelligence**
@@ -119,6 +114,12 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 588 Autonomous Vehicles Systems Engineering [GO HERE](https://github.com/lotlouischoitslab/Autonomous_Vehicles_Stuff)**
   - **Reinforcement Learning** 
     - **[Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
+
+### BIG DATA COURSES
+- **CS 411 Database Systems**
+  - [0] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
+  - [1] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+  - [2] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
 
 ### ENGINEERING CORE REQUIREMENTS
 - **TAM 210/211 Engineering Statics**
