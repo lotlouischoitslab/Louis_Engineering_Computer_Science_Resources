@@ -94,9 +94,6 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **LeetCode Stuff**
     - **Louis LeetCode Stuff [GO HERE](https://github.com/lotlouischoitslab/LeetCode_Grind)**
     - **NeetCode [NeetCode Website](https://www.youtube.com/c/NeetCode)**
-- **CS 421 Programming Languages & Compilers**
-  - [CS 421 Spring 2022](https://uiuc-cs421-sp22.netlify.app/lectures/)
-  - [Professor Mattox Alan Beckman Book](https://github.com/mattoxb/haskell-book)
 
 - **CS 411 Database Systems**
   - [0] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
