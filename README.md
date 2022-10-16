@@ -53,51 +53,51 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[0] [Fundamentals of Transportation](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation)**
   - **[1] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
 - **CEE 360 Structural Engineering (0.50)**
-  - **[Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
+  - **[0] [Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
 - **CEE 320 Construction Engineering (1.50)** 
-  - [Project Management for Construction](https://www.cmu.edu/cee/projects/PMbook/)
+  - **[0] [Project Management for Construction](https://www.cmu.edu/cee/projects/PMbook/)**
   - [Midterm 1 Review](https://quizlet.com/326447172/cee-320-midterm-i-flash-cards/)
   - [Midterm 1 Review More](https://quizlet.com/325454603/cee-320-midterm1-flash-cards/)
 - **CEE 350 Water Resources Management (1.30)**
 - **CEE 300 Behavior of Materials (1.00)**
 - **CEE 201 Civil & Environmental Systems Engineering & Economics**
-  - [0] [Prepineer Engineering Economics Tutorial](https://youtube.com/playlist?list=PLRW1FgIW06IpkWmpIl_1qrXIPPzZdc7-V)
-  - [1] [Yong Wang's Operation Research](https://youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)
+  - **[0] [Prepineer Engineering Economics Tutorial](https://youtube.com/playlist?list=PLRW1FgIW06IpkWmpIl_1qrXIPPzZdc7-V)**
+  - **[1] [Yong Wang's Operation Research](https://youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)**
 - **CEE 202 Engineering Uncertainty & Risk**
-  - [0] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)
+  - **[0] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)**
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
 
 - **CS 124 Introduction to Computer Science 1 Java**
-   - [0] [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
-   - [1] [Dinesh Varyani Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+   - **[0] [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)**
+   - **[1] [Dinesh Varyani Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)**
 - **CS 128 Introduction to Computer Science 2 C++**
-  - [0] [FreeCodeCamp C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)
-  - [1] [CodeBeauty C++ Tutorial](https://www.youtube.com/watch?v=GQp1zzTwrIg)
-  - [2] [Learn C++ Online](https://learncpp.online/lessons)
+  - **[0] [FreeCodeCamp C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)**
+  - **[1] [CodeBeauty C++ Tutorial](https://www.youtube.com/watch?v=GQp1zzTwrIg)**
+  - **[2] [Learn C++ Online](https://learncpp.online/lessons)**
 - **CS 173 Discrete Structures**
-  - [0] [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
-  - [1] [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)
-  - [2] [CS 173 Practice Materials](https://courses.grainger.illinois.edu/cs173/sp2019/A-lecture/Exams/index.html)
-  - [3] [Jongwoo Jeon's Discrete Mathematics Wiki](https://github.com/jongwoojeff/DiscreteMathematics/wiki)
+  - **[0] [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)**
+  - **[1] [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)**
+  - **[2] [CS 173 Practice Materials](https://courses.grainger.illinois.edu/cs173/sp2019/A-lecture/Exams/index.html)**
+  - **[3] [Jongwoo Jeon's Discrete Mathematics Wiki](https://github.com/jongwoojeff/DiscreteMathematics/wiki)**
 - **CS 225 Data Structures & Software Principles C++**
-  - [0] [MyCodeSchool C++ DSA Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
-  - [1] [Abdul Bari DSA](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-  - [2] [Fit Coder C++ Graphs Tutorial](https://youtube.com/playlist?list=PLFj4kIJmwGu3m30HfYDDufr3PZBfyngr0)
+  - **[0] [MyCodeSchool C++ DSA Tutorial](https://www.youtube.com/watch?v=B31LgI4Y4DQ)**
+  - **[1] [Abdul Bari DSA](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)**
+  - **[2] [Fit Coder C++ Graphs Tutorial](https://youtube.com/playlist?list=PLFj4kIJmwGu3m30HfYDDufr3PZBfyngr0)**
 - **CS 340 Introduction to Computer Systems**
   - [0] [Professor Wade Fagen-Ulmschneider's Important Note CS 340 VS CS 233 & CS 341](https://waf.cs.illinois.edu/pages/cs340/)
 - **CS 357 Numerical Methods 1 Python**
-   - [0] [Professor Mariana Silva CS 357 Spring 2022](https://courses.grainger.illinois.edu/cs357/sp2022/)
+   - **[0] [Professor Mariana Silva CS 357 Spring 2022](https://courses.grainger.illinois.edu/cs357/sp2022/)**
 - **CS 374 Introduction to Algorithms & Models of Computation**
   - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson](https://courses.engr.illinois.edu/cs374/sp2018/A/)**
   - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
   - **[CS/ECE 374A Professor Jeff Erickson Recommended Resources](https://courses.engr.illinois.edu/cs374/sp2021/resources.html)**
   - **Algorithms**
-    - [0] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
-    - [1] [Lynn Zheng Backtracking Tutorial](https://www.youtube.com/watch?v=A80YzvNwqXA)
+    - **[0] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)**
+    - **[1] [Lynn Zheng Backtracking Tutorial](https://www.youtube.com/watch?v=A80YzvNwqXA)**
   - **Models of Computation**
-    - [0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)
-    - [1] [Neso Academy Theory of Computation & Automata Theory](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
+    - **[0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)**
+    - **[1] [Neso Academy Theory of Computation & Automata Theory](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)**
   - **LeetCode Stuff**
     - **Louis LeetCode Stuff [GO HERE](https://github.com/lotlouischoitslab/LeetCode_Grind)**
     - **NeetCode [NeetCode Website](https://www.youtube.com/c/NeetCode)**
@@ -160,7 +160,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [Professor Butler Calculus 3 Final Review](https://www.youtube.com/watch?v=EC3x4OFrnHk)
 
  - **MATH 257 Linear Algebra with Computational Applications**
-    - [Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+    **Don't forget to look at my Python stuff above!**
     - [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
     - [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)
 
