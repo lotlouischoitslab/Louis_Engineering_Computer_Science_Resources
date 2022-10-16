@@ -15,9 +15,12 @@ All the useful resources I have been using to study for engineering and computer
 ![title](gitcheatsheet.png)
 
 ## ALL PYTHON STUFF:
- - **[FreeCodeCamp Python Tutorial](https://www.youtube.com/watch?v=Ej_02ICOIgs)**
- - **[나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
- - **[GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
+**Python English Version**
+ - **[0] [Corey Schafer Python Tutorial](https://youtu.be/YYXdXT2l-Gg)**
+ 
+ **파이썬 한국어 버전**
+ - **[0] [나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
+ - **[1] [GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
 
 ## UIUC Grainger College of Engineering Courses
 I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science with a focus area in Artificial Intelligence & Big Data. Here are the resources I had to use to study for the engineering and computer science courses I took at the University of Illinois at Urbana-Champaign. 
