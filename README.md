@@ -125,9 +125,9 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 ### BIG DATA COURSES
 - **CS 411 Database Systems**
-  - [0] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)
-  - [1] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
-  - [2] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
+  - **[0] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)**
+  - **[1] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)**
+  - **[2] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)**
 
 ### ENGINEERING CORE REQUIREMENTS
 - **TAM 210/211 Engineering Statics**
@@ -159,7 +159,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - [Legendary Professor Leonard Calculus 3 Tutorial](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
   - [Professor Butler Calculus 3 Final Review](https://www.youtube.com/watch?v=EC3x4OFrnHk)
 
- - **MATH 257 Linear Algebra with Computational Applications**
+ - **MATH 257 Linear Algebra with Computational Applications </br>**
     **Don't forget to look at my Python stuff above!**
     - [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
     - [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)
