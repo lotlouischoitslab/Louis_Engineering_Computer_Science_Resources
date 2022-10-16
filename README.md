@@ -17,6 +17,8 @@ All the useful resources I have been using to study for engineering and computer
 ## ALL PYTHON STUFF:
 **Python English Version**
  - **[0] [Corey Schafer Python Tutorial](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)**
+ - **[1] [Jovian Data Structures Tutorial](https://youtu.be/pkYVOmU3MgA)**
+ - **[2] [Jovian Graph Tutorial](https://www.youtube.com/watch?v=SmOrBW22R2k&list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr&index=5)**
  
  **파이썬 한국어 버전**
  - **[0] [나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
@@ -101,24 +103,24 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
 - **CS 440 Artificial Intelligence**
-  - **[UC Berkeley Artificial Intelligence](http://aima.cs.berkeley.edu/)**
-  - **[Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
-  - **[Jovian Data Structures Tutorial](https://youtu.be/pkYVOmU3MgA)**
-  - **[Jovian Graph Tutorial](https://www.youtube.com/watch?v=SmOrBW22R2k&list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr&index=5)**
+  - **[0] [Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
+  - **[1] [UC Berkeley Artificial Intelligence](http://aima.cs.berkeley.edu/)**
+  
 - **CS 441 Applied Machine Learning**
-   - **[Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
-   - **[Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
-   - **[Codebasics Machine Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)**
-   - **[Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
-   - **[Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
+   - **[0] [Codebasics Machine Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)**
+   - **[1] [Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
+   - **[2] [Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
+   - **[3] [Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
+   - **[4] [Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
+
+- **CS 443 Reinforcement Learning**
+   - **[0] [Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
+
 - **CS 444 Deep Learning for Computer Vision**
-   - **[FreeCodeCamp Deep Learning Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=12s)**
-   - **[Codebasics Deep Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)**
-   - **[Sentdex Deep Learning Tutorial](https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)**
-   - **[Hackers Realm CNN Image Classification Tutorial](https://www.youtube.com/watch?v=ENXr1foShrA)**
-- **CS 588 Autonomous Vehicles Systems Engineering [GO HERE](https://github.com/lotlouischoitslab/Autonomous_Vehicles_Stuff)**
-  - **Reinforcement Learning** 
-    - **[Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
+   - **[0] [Codebasics Deep Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)**
+   - **[1] [FreeCodeCamp Deep Learning Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=12s)**
+   - **[2] [Sentdex Deep Learning Tutorial](https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)**
+   - **[3] [Hackers Realm CNN Image Classification Tutorial](https://www.youtube.com/watch?v=ENXr1foShrA)**
 
 ### BIG DATA COURSES
 - **CS 411 Database Systems**
