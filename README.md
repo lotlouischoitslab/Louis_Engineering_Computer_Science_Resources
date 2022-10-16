@@ -17,8 +17,7 @@ All the useful resources I have been using to study for engineering and computer
 ## ALL PYTHON STUFF:
 **Python English Version**
  - **[0] [Corey Schafer Python Tutorial](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)**
- - **[1] [Jovian Data Structures Tutorial](https://youtu.be/pkYVOmU3MgA)**
- - **[2] [Jovian Graph Tutorial](https://www.youtube.com/watch?v=SmOrBW22R2k&list=PLyMom0n-MBrqFwguQhbCu0Anlxoel08dr&index=5)**
+ - **[1] [Jovian Introduction to Data Structures & Algorithms Python Tutorial](https://youtu.be/pkYVOmU3MgA)**
  
  **파이썬 한국어 버전**
  - **[0] [나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
