@@ -16,7 +16,7 @@ All the useful resources I have been using to study for engineering and computer
 
 ## ALL PYTHON STUFF:
 **Python English Version**
- - **[0] [Corey Schafer Python Tutorial](https://youtu.be/YYXdXT2l-Gg)**
+ - **[0] [Corey Schafer Python Tutorial](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)**
  
  **파이썬 한국어 버전**
  - **[0] [나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
