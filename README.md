@@ -178,9 +178,3 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 - **PHYS 212 Physics Electricity & Magnetism**
   - [Organic Chemistry Tutor General Physics 2](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
-
-- **PHYS 213 Physics Thermal Physics**
-  - [Organic Chemistry Tutor General Physics 3](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
-
-- **PHYS 214 Physics Quantum Physics**
-  - [Organic Chemistry Tutor General Physics 4](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)
