@@ -115,6 +115,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 - **CS 443 Reinforcement Learning**
    - **[0] [Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
+   - **[1] [Andreas Geiger Self-Driving Cars](https://youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)**
 
 - **CS 444 Deep Learning for Computer Vision**
    - **[0] [Codebasics Deep Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)**
