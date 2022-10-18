@@ -87,9 +87,9 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 357 Numerical Methods 1 Python**
    - **[0] [Professor Mariana Silva CS 357 Spring 2022](https://courses.grainger.illinois.edu/cs357/sp2022/)**
 - **CS 374 Introduction to Algorithms & Models of Computation**
-  - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson](https://courses.engr.illinois.edu/cs374/sp2018/A/)**
-  - **[CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
-  - **[CS/ECE 374A Professor Jeff Erickson Recommended Resources](https://courses.engr.illinois.edu/cs374/sp2021/resources.html)**
+  - **[UIUC CS/ECE 374A Spring 2018 Professor Jeff Erickson](https://courses.engr.illinois.edu/cs374/sp2018/A/)**
+  - **[UIUC CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
+  - **[UIUC CS/ECE 374A Professor Jeff Erickson Recommended Resources](https://courses.engr.illinois.edu/cs374/sp2021/resources.html)**
   - **[MIT 6.006 Introduction to Algorithms Fall 2011](https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (STRONGLY RECOMMEND!)**
   - **[MIT 6.006 Introduction to Algorithms Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) (STRONGLY RECOMMEND!)**
   - **Algorithms**
