@@ -100,7 +100,6 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
     - **[0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)**
     - **[1] [Neso Academy Theory of Computation & Automata Theory](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)**
   - **LeetCode Stuff**
-    - **Louis LeetCode Stuff [GO HERE](https://github.com/lotlouischoitslab/LeetCode_Grind)**
     - **NeetCode [NeetCode Website](https://www.youtube.com/c/NeetCode)**
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
