@@ -1,0 +1,14 @@
+HARD QUESTIONS:
+1. Robot Room Cleaner (https://www.goodtecher.com/leetcode-489-robot-room-cleaner/)
+2. Delete and Earn: (https://leetcode.com/problems/delete-and-earn/submissions/)
+3. Longest Common Substring: (https://leetcode.com/problems/longest-common-subsequence/)
+4. Smallest String with Swaps: (https://leetcode.com/problems/smallest-string-with-swaps/)
+5. Clone Graph: (https://leetcode.com/problems/clone-graph/submissions/)
+6. Min Cost Connect All Paths: (https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/) We need to figure out what heap is for the Prim's Algorithm
+
+7. Top K Frequency (https://leetcode.com/problems/top-k-frequent-elements/)
+8. Network Delay Time (https://leetcode.com/problems/network-delay-time/)
+
+9. Cheapest Flight (https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+
+10. Coin Change 2 (https://leetcode.com/problems/coin-change-2/submissions/)

@@ -1,0 +1,41 @@
+Time Complexity:
+
+Space Complexity Words:
+Space, Usage, Consumption, Footprint
+
+Dynamic Programming:
+Optimal Substructure
+Pathing Problem: Matrices as part of the input and rules for moving throughout the matrix. DP will be applicable when the allowed movements is constrained in such a way that it prevents moving backwards. In other words, for the available movement options, there should be no opposite movement that could counteract it. 
+
+Subsequence: Sequence derived from an array where we can delete some of the elements or none of them, but regardless of the order of the remaining elements should not change. 
+
+Graphs:
+Circular Dependency: My neighbor needs to wait for my result from the recursive call.
+In-Degree: Number of incoming edges in a graph
+
+
+Important Graph Algorithms:
+Dijkstra Algorithm: Can solve any single-source shortest path problem in any directed graph with non-negative weights
+
+Bellman-Ford Algorithm: Can solve any single-source shortest path problem in a weighted directed graph with any weights, including negative weights. 
+
+In a graph with N vertices, if it is either acyclic or cyclic with only positive weight cycles, then the shortes path between any two vertices would have at most N - 1 edges. In a graph with no negative-weight cycles with N vertices, the shortest path between any two vertices would have at most N - 1 edges. 
+
+NOTE:
+DP Approach to Bellman-Ford: We should only implement this approach when we are asked to find the minimum path cost for any pair of vertices with at most k edges. If we are not given a constraint on the number of edges, we should skip over to the improved approach. We implicitly will have a 2d matrix array where the index into the first dimension is at most how many edges the path must consist of (going from 0 to V - 1) and each of the list entries inside the 2d matrix consist of the minimum path cost from the source vertex to that particular destination vertex (where the destination vertex is an index into this particular 1d list) using at most k edges where k is the index into the first dimension of the 2d matrix. 
+
+Recurrence Relation to transition between states: DP[k][u] = min(DP[k-1][u], DP[k-1][v] + Weight(v,u)) if k is not equal to 0
+When k is equal to 0, DP[0][source node] = 0 and DP[0][non source node] = infinity
+u represents the destination vertex, V represents each of the adjacent nodes from which there is a directed edge incident to destination vertex U. 
+We can further optimize the space complexity by only maintaining the previous row and current row of the 2d matrix. When we move on to the next row, the previous row becomes the current row and we can update the entries for the current row to reflect the next row. 
+
+Improved Bellman-Ford Approach: We don't need to follow the constraint of setting the number of edges allowed at most. We may discover, ahead of time, a smaller path cost using more edges than what we previously allowed, so we may converge to the minimum path cost between the source and all destination vertices ahead of time without having to achieve the worst-case runtime of O(V*E) for a complete graph where every vertex was connected to every other vertex like the previous vertex. In that case, we would have to check every path from every vertex while limiting the number of edges the path may contain at most at any given moment in time. Instead now, we will perform a single relaxation operation for each edge at most N - 1 times (for a max of N - 1 iterations). We would need to iterate through all of the vertices and then perform a relaxation operation for each appropriate edge, so an upper bound on the runtime would be still O(V*E). We want to visit these adjacent nodes in FIFO order so that we don't move onto other edges for which there may be no improvement in the path cost (the path cost may not decrease compared to what we already have stored). Improved  Bellman-Ford exhibits suboptimal time complexity, so SPFA is literally just the fastest way to approach improved Bellman-Ford. In the worst-case scenario, we iterate through all the vertices and have to perform the edge-relaxation operation on all edges since we find a shorter path everytime from the source to destination vertex. We will repeat edge-relaxation for all edges V-1 times in the worst-case for a total of O(V*E). We will need to maintain a queue and visited set where the elements of the visited set are just the nodes that have been pushed to but not yet popped from the queue. If a node already belongs to the visited set, we will not push it into the queue, so we will need a max of O(V) space for each of the queue and visited set. 
+
+Algorithm:
+1. Create an empty queue and a visited set. Also, create a list for retaining the min path cost for all paths we have seen thus far from the source to destination vertex. We will update the vertex entries everytime we notice a smaller path cost. We know that the path from the source vertex to itself will not involve any edges, so the minimum path cost will be O, so we can update the list entry with the source node as an index into the list to be 0.
+
+2. Now, consider the adjacent nodes whose directed edges are indicent from the source node or the node just popped from the queue to an adjacent node. After adding the weight along the directed edge to the minimum path cost to reach the node either popped from the queue or the source vertex, see if it is less than the list entry for the adjacency node. If it is, update it to reflect the smaller path cost and push the adjacent node into the queue if it is not already part of the visited set. After pushing the node into the queue, add it to the visited set. 
+
+3. When popping a node from the queue, remove it from the visited set. 
+
+4. Repeat steps 2 and 3 until the queue is empty. 

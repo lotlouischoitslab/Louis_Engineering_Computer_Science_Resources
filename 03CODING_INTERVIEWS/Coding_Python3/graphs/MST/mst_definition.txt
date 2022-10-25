@@ -1,0 +1,11 @@
+Spanning Tree: A spanning tree is a connected subgraph in an undirected graph where
+all vertices are connected with the minimum possible number of edges.
+
+Minimum Spanning Tree: MST is a spanning tree with the minimum possible total edge weight
+in a weighted undirected graph
+
+Cut: A cut is a partition of vertices in a graph in two disjoint sets
+
+Crossing Edge: AN edge that connected a vertex in one set with a vertex in the other set. 
+
+Idea behind Kruskal's Algorithm: Add edges with the least weight and do not create any cycles. Among the edges that don't create a cycle, pick the edge with least weight. 
