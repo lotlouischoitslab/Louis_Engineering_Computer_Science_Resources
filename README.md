@@ -147,10 +147,10 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **SE 101 Engineering Graphics Design**
 - **ECE 205 Introduction to Electronics**
 - **STAT 400 Statistics & Probability 1**
-  - [0] [Professor Leonard Probability & Statistics](https://youtube.com/playlist?list=PL5102DFDC6790F3D0)
-  - [1] [David Dalpiaz STAT 400 Stuff](https://daviddalpiaz.github.io/stat400sp18/)
-  - [2] [ACADGILD Statistics Tutorial](https://youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
-  - [3] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)
+  - **[0] [Professor Leonard Probability & Statistics](https://youtube.com/playlist?list=PL5102DFDC6790F3D0)**
+  - **[1] [David Dalpiaz STAT 400 Stuff](https://daviddalpiaz.github.io/stat400sp18/)**
+  - **[2] [ACADGILD Statistics Tutorial](https://youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)**
+  - **[3] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)**
 
 - **MATH PRACTICE** 
   - [Math Lamar Practice Problems](https://tutorial.math.lamar.edu/) 
