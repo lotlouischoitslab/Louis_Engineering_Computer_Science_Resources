@@ -134,16 +134,16 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 ### ENGINEERING CORE REQUIREMENTS
 - **TAM 210/211 Engineering Statics**
-  - [Jeff Hanson Statics](https://www.youtube.com/watch?v=TqFYnSFX_L4&list=PLRqDfxcafc23LXGoItpkYMKtUdHaQwSDC)
-  - [Structures Free Statics](https://youtube.com/playlist?list=PL6474BBA9E3FC8FDC)
+  - **[0] [Jeff Hanson Statics](https://www.youtube.com/watch?v=TqFYnSFX_L4&list=PLRqDfxcafc23LXGoItpkYMKtUdHaQwSDC)**
+  - **[1] [Structures Free Statics](https://youtube.com/playlist?list=PL6474BBA9E3FC8FDC)**
 - **TAM 212 Engineering Dynamics**
-  - [Jeff Hanson Dynamics](https://www.youtube.com/watch?v=dmq0PHF837M&list=PLRqDfxcafc206fNQPkcBUFEMYje-UjtqA)
-  - [Structures Free Dynamics](https://www.youtube.com/watch?v=olasVZilLRA&list=PL81251F4A3D0AF09B)
+  - **[0] [Jeff Hanson Dynamics](https://www.youtube.com/watch?v=dmq0PHF837M&list=PLRqDfxcafc206fNQPkcBUFEMYje-UjtqA)**
+  - **[1] [Structures Free Dynamics](https://www.youtube.com/watch?v=olasVZilLRA&list=PL81251F4A3D0AF09B)**
 - **TAM 251 Engineering Solid Mechanics**
-  - [Jeff Hanson Solid Mechanics](https://www.youtube.com/watch?v=RkS8DjzvEvM&list=PLRqDfxcafc21wlI3E56IkDmRJ-33apMjv)
-  - [Structures Free Solid Mechanics](https://www.youtube.com/watch?v=DjTFIAeeMiY&list=PLCBF826FE563C57B0)
+  - **[0] [Jeff Hanson Solid Mechanics](https://www.youtube.com/watch?v=RkS8DjzvEvM&list=PLRqDfxcafc21wlI3E56IkDmRJ-33apMjv)**
+  - **[1] [Structures Free Solid Mechanics](https://www.youtube.com/watch?v=DjTFIAeeMiY&list=PLCBF826FE563C57B0)**
 - **TAM 335 Engineering Fluid Mechanics or ME 310 Fundamentals of Fluid Dynamics**
-  - [CPPMechEngTutorials Fluid Mechanics](https://www.youtube.com/watch?v=PXjZ7xEAqsU&list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe)
+  - **[0] [CPPMechEngTutorials Fluid Mechanics](https://www.youtube.com/watch?v=PXjZ7xEAqsU&list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe)**
 - **SE 101 Engineering Graphics Design**
 - **ECE 205 Introduction to Electronics**
 - **STAT 400 Statistics & Probability 1**
