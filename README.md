@@ -14,6 +14,12 @@ All the useful resources I have been using to study for engineering and computer
 ## GitHub Commands:
 ![title](gitcheatsheet.png)
 
+### GitHub Commands I always use:
+    git pull
+    git add .
+    git commit -m "commiting files to my GitHub repository"
+    git push origin main
+
 ## ALL PYTHON STUFF:
 **Python English Version**
  - **[0] [Python Documentation](https://docs.python.org/3.8/tutorial/)**
