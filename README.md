@@ -158,23 +158,21 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[2] [ACADGILD Statistics Tutorial](https://youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)**
   - **[3] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)**
 
-- **MATH PRACTICE** 
-  - [Math Lamar Practice Problems](https://tutorial.math.lamar.edu/) 
-
 - **MATH 220 221 231 Calculus 1 2**
-  - [Organic Chemistry Tutor Calculus 1 2 3](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
+  - **[0][Organic Chemistry Tutor Calculus 1 2 3](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)**
+  - **[1][Lamar Calculus Practice Problems](https://tutorial.math.lamar.edu/)**
   
 - **MATH 241 Calculus 3**
-  - [Legendary Professor Leonard Calculus 3 Tutorial](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
-  - [Professor Butler Calculus 3 Final Review](https://www.youtube.com/watch?v=EC3x4OFrnHk)
+  - **[0][Legendary Professor Leonard Calculus 3 Tutorial](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)**
+  - **[1][Professor Butler Calculus 3 Final Review](https://www.youtube.com/watch?v=EC3x4OFrnHk)**
 
  - **MATH 257 Linear Algebra with Computational Applications </br>**
     **Don't forget to look at my Python stuff above!**
-    - [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
-    - [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)
+    -**[0][MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)**
+    -**[1][Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)**
 
 - **MATH 285 Ordinary Differential Equations**
-  - [Professor Leonard Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)
+  - **[0][Professor Leonard Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)**
 
 - **CHEM 102 103 104 105 General Chemistry**
   - [Organic Chemistry Tutor General Chemistry Playlist](https://www.youtube.com/watch?v=-KfG8kH-r3Y&list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS)
