@@ -78,6 +78,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **CS 124 Introduction to Computer Science 1 Java**
    - **[0] [Kunal Kushwaha Java OOP](https://youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)**
    - **[1] [Dinesh Varyani Java DSA Tutorial](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)**
+   - **[2] [Learn Java/Kotlin Online](https://www.learncs.online/)**
 - **CS 128 Introduction to Computer Science 2 C++**
   - **[0] [FreeCodeCamp C++ Tutorial](https://www.youtube.com/watch?v=8jLOx1hD3_o)**
   - **[1] [CodeBeauty C++ Tutorial](https://www.youtube.com/watch?v=GQp1zzTwrIg)**
