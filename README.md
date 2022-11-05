@@ -102,6 +102,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **Algorithms**
     - **[0] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)**
     - **[1] [Lynn Zheng Backtracking Tutorial](https://www.youtube.com/watch?v=A80YzvNwqXA)**
+    - **[2] [NeetCode Dynamic Programming Tutorial](https://youtube.com/playlist?list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO)**
     - **[3] [Graph Theory from Google Software Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)**
   - **Models of Computation**
     - **[0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)**
