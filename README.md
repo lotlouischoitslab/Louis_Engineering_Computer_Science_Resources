@@ -153,6 +153,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **TAM 335 Engineering Fluid Mechanics or ME 310 Fundamentals of Fluid Dynamics**
   - **[0] [CPPMechEngTutorials Fluid Mechanics](https://www.youtube.com/watch?v=PXjZ7xEAqsU&list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe)**
 - **SE 101 Engineering Graphics Design**
+  - **[0] [CAD in black Revit Tutorial](https://youtube.com/playlist?list=PLe_I-JWckL7HnPkUSHT3FhT4mEEz8OTYe)**
 - **ECE 205 Introduction to Electronics**
 - **STAT 400 Statistics & Probability 1**
   - **[0] [Professor Leonard Probability & Statistics](https://youtube.com/playlist?list=PL5102DFDC6790F3D0)**
