@@ -118,11 +118,12 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[2] [UC Berkeley CS 188 Artificial Intelligence Playlist](  https://youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)**
   
 - **CS 441 Applied Machine Learning**
-   - **[0] [Codebasics Machine Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)**
-   - **[1] [Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
-   - **[2] [Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
-   - **[3] [Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
-   - **[4] [Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
+   - **[0] [Kylie Ying Introduction to Machine Learning](https://www.youtube.com/watch?v=i_LwzRVP7bg)**
+   - **[1] [Codebasics Machine Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)**
+   - **[2] [Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
+   - **[3] [Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
+   - **[4] [Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
+   - **[5] [Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
 
 - **CS 443 Reinforcement Learning**
    - **[0] [Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
