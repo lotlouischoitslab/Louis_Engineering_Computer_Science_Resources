@@ -139,6 +139,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[0] [Computer Science & Engineering Database Systems](https://youtube.com/playlist?list=PLJ5C_6qdAvBHKccG0ZyOxcf_2YO6r4Q4l)**
   - **[1] [Neso Academy Database Management Systems](https://youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)**
   - **[2] [Join Functions in DB](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)**
+  - **[3] [Plotly Documentation](https://plotly.com/nodejs/)**
 
 ### ENGINEERING CORE REQUIREMENTS
 - **TAM 210/211 Engineering Statics**
