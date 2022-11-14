@@ -1,7 +1,7 @@
 from criticalpath import Node
 
-def link_project(a,b,p):
-    return p.link(a,b)
+def link_project(a,b,project):
+    return project.link(a,b)
 
 if __name__ == '__main__':
     print('Welcome to Construction Management! Use this to schedule your project!')
