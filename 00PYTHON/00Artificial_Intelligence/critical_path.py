@@ -1,8 +1,7 @@
 from criticalpath import Node
 
-def link_project(a,b,c,d,e,f,p):
-    return p.link(a,b).link(a,c).link(b,d).link(b,e).link(d,f).link(e,f)
-
+def link_project(a,b,p):
+    return p.link(a,b)
 
 if __name__ == '__main__':
     print('Welcome to Construction Management! Use this to schedule your project!')
@@ -14,7 +13,13 @@ if __name__ == '__main__':
     e = p.add(Node('E',duration=2,lag=0))
     f = p.add(Node('F',duration=8,lag=0))
 
-    schedule = link_project(a,b,c,d,e,f,p)
+    schedule = link_project(a,b,p)
+    schedule = link_project(a,c,schedule)
+    schedule = link_project(b,d,schedule)
+    schedule = link_project(b,e,schedule)
+    schedule = link_project(d,f,schedule)
+    schedule = link_project(e,f,schedule)
+
     schedule.update_all()
     critcal_path = p.get_critical_path()
     print('Critical Path:',critcal_path)
