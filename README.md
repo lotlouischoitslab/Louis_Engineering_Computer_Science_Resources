@@ -42,8 +42,8 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **TAM: Theoretical & Applied Mechanics**
   - **MATH: Mathematics**
   - **STAT: Statistics**
-  - **CHEM: Chemistry**
   - **PHYS: Physics**
+  - **CHEM: Chemistry**
 
 ### Civil & Environmental Engineering (Specialization: Transportation Engineering):
 - **CEE 400 lvl Rail (1.00) TBA**
