@@ -180,10 +180,12 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[0] [Professor Leonard Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)**
 
 - **PHYS 211 Physics Mechanics**
-  - **[0] [Organic Chemistry Tutor General Physics 1](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
+  - **[0] [Ilectureonline Mechanics](http://www.ilectureonline.com/lectures/subject/PHYSICS/1)**
+  - **[1] [Organic Chemistry Tutor General Physics 1](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
 
 - **PHYS 212 Physics Electricity & Magnetism**
-  - **[0] [Organic Chemistry Tutor General Physics 2](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
+  - **[0] [Ilectureonline Electricity & Magnetism](http://www.ilectureonline.com/lectures/subject/PHYSICS/5)**
+  - **[1] [Organic Chemistry Tutor General Physics 2](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
 
 - **CHEM 102 103 104 105 General Chemistry**
   - **[0] [Organic Chemistry Tutor General Chemistry Playlist](https://www.youtube.com/watch?v=-KfG8kH-r3Y&list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS)**
