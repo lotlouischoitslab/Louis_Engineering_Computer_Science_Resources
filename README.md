@@ -158,7 +158,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[1] [Ilectureonline Fluid Mechanics](http://www.ilectureonline.com/lectures/subject/PHYSICS/4)**
 - **SE 101 Engineering Graphics Design**
   - **[0] [CAD in black Revit Tutorial](https://youtube.com/playlist?list=PLe_I-JWckL7HnPkUSHT3FhT4mEEz8OTYe)**
-- **ECE 205 Introduction to Electrical & Electronic Circuits**
+- **ECE 205 Introduction to Electrical & Electronic Circuits** </br>
   These may be useful to **ECE 110 Introduction to Electronics** and **ECE 210 Analog Signal Processing**.
   - **[0] [Ilectureonline Electrical Engineering Tutorial](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28)**
 - **STAT 400 Statistics & Probability 1**
