@@ -159,7 +159,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 - **SE 101 Engineering Graphics Design**
   - **[0] [CAD in black Revit Tutorial](https://youtube.com/playlist?list=PLe_I-JWckL7HnPkUSHT3FhT4mEEz8OTYe)**
 - **ECE 205 Introduction to Electronics**
--   **[0] [Ilectureonline Electrical Engineering Tutorial](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28)**
+  - **[0] [Ilectureonline Electrical Engineering Tutorial](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28)**
 - **STAT 400 Statistics & Probability 1**
   - **[0] [Professor Leonard Probability & Statistics](https://youtube.com/playlist?list=PL5102DFDC6790F3D0)**
   - **[1] [David Dalpiaz STAT 400 Stuff](https://daviddalpiaz.github.io/stat400sp18/)**
