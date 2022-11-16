@@ -169,7 +169,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[0] [Organic Chemistry Tutor Calculus 1 2 3](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)**
   - **[1] [Lamar Calculus Practice Problems](https://tutorial.math.lamar.edu/)**
   
-- **MATH 241 Calculus 3**
+- **MATH 241 Multivariable Calculus (Calculus 3)**
   - **[0] [Legendary Professor Leonard Calculus 3 Tutorial](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)**
   - **[1] [Professor Butler Calculus 3 Final Review](https://www.youtube.com/watch?v=EC3x4OFrnHk)**
 
@@ -182,13 +182,13 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
 
 - **PHYS 211 Physics Mechanics**
   - **[0] [Ilectureonline Mechanics](http://www.ilectureonline.com/lectures/subject/PHYSICS/1)**
-  - **[1] [Organic Chemistry Tutor General Physics 1](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
+  - **[1] [Organic Chemistry Tutor Mechanics](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
 
 - **PHYS 212 Physics Electricity & Magnetism**
   - **[0] [Ilectureonline Electricity & Magnetism](http://www.ilectureonline.com/lectures/subject/PHYSICS/5)**
-  - **[1] [Organic Chemistry Tutor General Physics 2](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
+  - **[1] [Organic Chemistry Tutor Electricity & Magnetism](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
 
 - **CHEM 102 103 104 105 General Chemistry**
   - **[0] [Organic Chemistry Tutor General Chemistry Playlist](https://www.youtube.com/watch?v=-KfG8kH-r3Y&list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS)**
-  - **[1] [CHEM 102 FINAL REVIEW](https://www.youtube.com/watch?v=5yw1YH7YA7c)**
-  - **[2] [CHEM 104 FINAL REVIEW](https://www.youtube.com/watch?v=lSmJN1_uVpI)**
+  - **[1] [Organic Chemistry Tutor CHEM 102 FINAL REVIEW](https://www.youtube.com/watch?v=5yw1YH7YA7c)**
+  - **[2] [Organic Chemistry Tutor CHEM 104 FINAL REVIEW](https://www.youtube.com/watch?v=lSmJN1_uVpI)**
