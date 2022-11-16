@@ -191,7 +191,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[0] [Ilectureonline Electricity & Magnetism](http://www.ilectureonline.com/lectures/subject/PHYSICS/5)**
   - **[1] [Organic Chemistry Tutor Electricity & Magnetism](https://www.youtube.com/watch?v=b1t41Q3xRM8&list=PL0o_zxa4K1BU6wPPLDsoTj1_wEf0LSNeR)**
 
-- **CHEM 102 103 104 105 General Chemistry**
+- **CHEM 102 104 General Chemistry 1 & 2**
   - **[0] [Organic Chemistry Tutor General Chemistry Playlist](https://www.youtube.com/watch?v=-KfG8kH-r3Y&list=PL0o_zxa4K1BWziAvOKdqsMFSB_MyyLAqS)**
   - **[1] [Organic Chemistry Tutor CHEM 102 FINAL REVIEW](https://www.youtube.com/watch?v=5yw1YH7YA7c)**
   - **[2] [Organic Chemistry Tutor CHEM 104 FINAL REVIEW](https://www.youtube.com/watch?v=lSmJN1_uVpI)**
