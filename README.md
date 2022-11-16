@@ -155,6 +155,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[1] [Structures Free Solid Mechanics](https://www.youtube.com/watch?v=DjTFIAeeMiY&list=PLCBF826FE563C57B0)**
 - **TAM 335 Engineering Fluid Mechanics or ME 310 Fundamentals of Fluid Dynamics**
   - **[0] [CPPMechEngTutorials Fluid Mechanics](https://www.youtube.com/watch?v=PXjZ7xEAqsU&list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe)**
+  - **[1] [Ilectureonline Fluid Mechanics](http://www.ilectureonline.com/lectures/subject/PHYSICS/4)**
 - **SE 101 Engineering Graphics Design**
   - **[0] [CAD in black Revit Tutorial](https://youtube.com/playlist?list=PLe_I-JWckL7HnPkUSHT3FhT4mEEz8OTYe)**
 - **ECE 205 Introduction to Electronics**
