@@ -101,6 +101,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[UIUC CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
   - **[UIUC CS/ECE 374A Professor Jeff Erickson Recommended Resources](https://courses.engr.illinois.edu/cs374/sp2021/resources.html)**
   - **[MIT 6.006 Introduction to Algorithms Fall 2011](https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (STRONGLY RECOMMEND!)**
+  - **[MIT 6.006 Introduction to Algorithms Fall 2011 Notes](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/) (STRONGLY RECOMMEND!)**
   - **[MIT 6.006 Introduction to Algorithms Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) (STRONGLY RECOMMEND!)**
   - **Algorithms**
     - **[0] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)**
