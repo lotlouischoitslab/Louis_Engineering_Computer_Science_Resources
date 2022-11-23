@@ -103,19 +103,18 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[MIT 6.006 Introduction to Algorithms Fall 2011](https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) (STRONGLY RECOMMEND!)**
   - **[MIT 6.006 Introduction to Algorithms Fall 2011 Notes](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/) (STRONGLY RECOMMEND!)**
   - **[MIT 6.006 Introduction to Algorithms Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) (STRONGLY RECOMMEND!)**
-
   - **Algorithms**
-   - **[0] [NeetCode Website](https://www.youtube.com/c/NeetCode)**
-   - **[1] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)**
-   - **[2] [Lynn Zheng Backtracking Tutorial](https://www.youtube.com/watch?v=A80YzvNwqXA)**
-   - **[3] [NeetCode Dynamic Programming Tutorial](https://youtube.com/playlist?list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO)**
-   - **[4] [Graph Theory from Google Software Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)**
-   - **[5] [NeetCode Graph Algorithms](https://youtube.com/playlist?list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI)**
+    - **[0] [NeetCode Website](https://www.youtube.com/c/NeetCode)**
+    - **[1] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)**
+    - **[2] [Lynn Zheng Backtracking Tutorial](https://www.youtube.com/watch?v=A80YzvNwqXA)**
+    - **[3] [NeetCode Dynamic Programming Tutorial](https://youtube.com/playlist?list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO)**
+    - **[4] [Graph Theory from Google Software Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)**
+    - **[5] [NeetCode Graph Algorithms](https://youtube.com/playlist?list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI)**
   - **Computational Complexity**
-   - **[0] [Professor Painter NP-Completeness Tutorial](https://youtube.com/playlist?list=PLQfaHkBRINsxngvO_CIM74kUauPd-BGa3)**
+    - **[0] [Professor Painter NP-Completeness Tutorial](https://youtube.com/playlist?list=PLQfaHkBRINsxngvO_CIM74kUauPd-BGa3)**
   - **Models of Computation**
-   - **[0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)**
-   - **[1] [Neso Academy Theory of Computation & Automata Theory](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)**
+    - **[0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)**
+    - **[1] [Neso Academy Theory of Computation & Automata Theory](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)**
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
 - **CS 440 Artificial Intelligence**
