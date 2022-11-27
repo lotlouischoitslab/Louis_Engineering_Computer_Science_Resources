@@ -73,7 +73,7 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   - **[0] [Engineer4Free Engineering Economics Tutorial](https://youtube.com/playlist?list=PLOAuB8dR35oeZR8OexafgBb0Y-nE3QqCP)**
   - **[1] [Yong Wang's Operation Research](https://youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)**
 - **CEE 202 Engineering Uncertainty & Risk**
-  - **[0] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)**
+  - **[0] Refer STAT 400 Statistics & Probability 1 Notes**
 
 ### Computer Science (Focus Area: Artificial Intelligence & Big Data):
 
