@@ -166,10 +166,11 @@ I am currently majoring in Civil & Environmental Engineering specializing in Tra
   These may be useful to **ECE 110 Introduction to Electronics** and **ECE 210 Analog Signal Processing**.
   - **[0] [Ilectureonline Electrical Engineering Tutorial](http://www.ilectureonline.com/lectures/subject/ENGINEERING/28)**
 - **STAT 400 Statistics & Probability 1**
-  - **[0] [Professor Leonard Probability & Statistics](https://youtube.com/playlist?list=PL5102DFDC6790F3D0)**
-  - **[1] [David Dalpiaz STAT 400 Stuff](https://daviddalpiaz.github.io/stat400sp18/)**
-  - **[2] [ACADGILD Statistics Tutorial](https://youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)**
-  - **[3] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)**
+  - **[0] [All of Probability & Statistics](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://egrcc.github.io/docs/math/all-of-statistics.pdf)**
+  - **[1] [Professor Leonard Probability & Statistics](https://youtube.com/playlist?list=PL5102DFDC6790F3D0)**
+  - **[2] [David Dalpiaz STAT 400 Stuff](https://daviddalpiaz.github.io/stat400sp18/)**
+  - **[3] [ACADGILD Statistics Tutorial](https://youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)**
+  - **[4] [MarinStatsLectures R using Statistics](https://youtube.com/playlist?list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU)**
 
 - **MATH 220 221 231 Calculus 1 2**
   - **[0] [Organic Chemistry Tutor Calculus 1 2 3](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)**
