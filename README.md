@@ -31,7 +31,7 @@ All the useful resources I have been using to study for **engineering** and **co
  - **[1] [GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
 
 ## UIUC Grainger College of Engineering Courses
-I am currently majoring in Civil & Environmental Engineering specializing in Transportation Engineering and minoring in Computer Science with a focus area in Artificial Intelligence & Big Data. Here are the resources I had to use to study for the engineering and computer science courses I took at the University of Illinois at Urbana-Champaign. 
+I am currently majoring in **Civil & Environmental Engineering** specializing in **Transportation Engineering** and minoring in **Computer Science** with a focus area in **Artificial Intelligence & Big Data**. Here are the resources I had to use to study for the engineering and computer science courses I took at the University of Illinois at Urbana-Champaign. 
 
 ### Legend:
   - **CEE: Civil & Environmental Engineering**
