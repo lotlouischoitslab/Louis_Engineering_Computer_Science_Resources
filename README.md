@@ -110,11 +110,11 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
     - **[3] [NeetCode Dynamic Programming Tutorial](https://youtube.com/playlist?list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO)**
     - **[4] [Graph Theory from Google Software Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)**
     - **[5] [NeetCode Graph Algorithms](https://youtube.com/playlist?list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI)**
-  - **Computational Complexity**
-    - **[0] [Professor Painter NP-Completeness Tutorial](https://youtube.com/playlist?list=PLQfaHkBRINsxngvO_CIM74kUauPd-BGa3)**
   - **Models of Computation**
     - **[0] [Easy Theory Theory of Computation](https://youtube.com/playlist?list=PLylTVsqZiRXN3Q86XJV6OWOmIzvVZs75E)**
     - **[1] [Neso Academy Theory of Computation & Automata Theory](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)**
+  - **Algorithms & Models of Computation**
+    - **[0] [Professor Painter NP-Completeness Tutorial](https://youtube.com/playlist?list=PLQfaHkBRINsxngvO_CIM74kUauPd-BGa3)**
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
 - **CS 440 Artificial Intelligence**
