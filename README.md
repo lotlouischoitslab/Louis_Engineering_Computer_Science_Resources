@@ -59,14 +59,14 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
 - **CEE 310 Transportation Engineering (1.00)**
   - **[0] [Fundamentals of Transportation](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation)**
   - **[1] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
-- **CEE 360 Structural Engineering (0.50)**
-  - **[0] [Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
 - **CEE 320 Construction Engineering (1.50)** 
   - **[0] [Project Management for Construction](https://www.cmu.edu/cee/projects/PMbook/)**
   - **[1] [Engineer4Free Project Management](https://youtube.com/playlist?list=PLOAuB8dR35oeyKU0ojIxD8Muf6Mwc8ugW)**
   - **[2] [Critical Path Method in Python](https://pypi.org/project/criticalpath/)**
-
 - **CEE 350 Water Resources Management (1.30)**
+  - **[0] TBA**
+- **CEE 360 Structural Engineering (0.50)**
+  - **[0] [Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
 - **CEE 300 Behavior of Materials (1.00)**
 - **CEE 201 Civil & Environmental Systems Engineering & Economics**
   - **[0] [Engineer4Free Engineering Economics Tutorial](https://youtube.com/playlist?list=PLOAuB8dR35oeZR8OexafgBb0Y-nE3QqCP)**
