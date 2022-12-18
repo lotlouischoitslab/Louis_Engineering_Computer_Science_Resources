@@ -52,7 +52,7 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
 - **CEE 416 Traffic Capacity Analysis (1.50)**
   - **[0] [Ali Hajbabaie Traffic Engineering](https://youtube.com/playlist?list=PLneifN52CCdu_uMCA-R6zHD_1YYxVS0Oe)**
   - **[1] [Meead Saberi Traffic Engineering](https://www.youtube.com/user/meeadsk/videos)**
-  - **[2] [Shockwave example](https://www.youtube.com/watch?v=9QFy9iREWsY)**
+  - **[2] [Shockwave Example](https://www.youtube.com/watch?v=9QFy9iREWsY)**
   - **[3] [Freeway Analysis](https://www.youtube.com/watch?v=vvFC4gyw81A)**
 - **CEE 418 Public Transportation Systems (1.00)**
   - **[0] [MIT Public Transportation Systems](https://youtube.com/playlist?list=PLUl4u3cNGP62AU7iNniqVoMl8C64tIOVk)**
