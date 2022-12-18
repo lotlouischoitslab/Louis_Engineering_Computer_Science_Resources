@@ -64,7 +64,7 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
   - **[1] [Engineer4Free Project Management](https://youtube.com/playlist?list=PLOAuB8dR35oeyKU0ojIxD8Muf6Mwc8ugW)**
   - **[2] [Critical Path Method in Python](https://pypi.org/project/criticalpath/)**
 - **CEE 350 Water Resources Management (1.30)**
-  - **[0] TBA**
+  - **[0] [Civil PE Problems Water Resources](https://youtube.com/playlist?list=PLpA54wtDMrA17xKC9s_M7G3mYU1PKXsC0)**
 - **CEE 360 Structural Engineering (0.50)**
   - **[0] [Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
 - **CEE 300 Behavior of Materials (1.00)**
