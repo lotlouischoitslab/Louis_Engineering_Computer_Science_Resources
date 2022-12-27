@@ -184,7 +184,7 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
   - **[0] [Legendary Professor Leonard Calculus 3 Tutorial](https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)**
   - **[1] [Professor Butler Calculus 3 Final Review](https://www.youtube.com/watch?v=EC3x4OFrnHk)**
 
- - **MATH 257 Linear Algebra with Computational Applications (Refer to Python stuff above!)</br>**
+ - **MATH 257 Linear Algebra with Computational Applications**
     - **[0] [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)**
     - **[1] [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)**
     - **[2] REFER TO MY PYTHON STUFF ABOVE**
