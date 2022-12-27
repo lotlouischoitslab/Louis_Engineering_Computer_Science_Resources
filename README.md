@@ -116,10 +116,13 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
     - **[0] [Professor Painter NP-Completeness Tutorial](https://youtube.com/playlist?list=PLQfaHkBRINsxngvO_CIM74kUauPd-BGa3)**
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
-- **CS 440 Artificial Intelligence**
+- **CS 440 Artificial Intelligence & ECE 484 Principles of Safe Autonomy**
+  - **CS 440 Stuff**
   - **[0] [Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
   - **[1] [UC Berkeley Artificial Intelligence](http://aima.cs.berkeley.edu/)**
   - **[2] [UC Berkeley CS 188 Artificial Intelligence Playlist](  https://youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)**
+  - **ECE 484 Stuff**
+  - TBA
   
 - **CS 441 Applied Machine Learning**
    - **[0] [Kylie Ying Introduction to Machine Learning](https://www.youtube.com/watch?v=i_LwzRVP7bg)**
