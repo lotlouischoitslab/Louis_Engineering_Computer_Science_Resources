@@ -116,7 +116,7 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
     - **[0] [Professor Painter NP-Completeness Tutorial](https://youtube.com/playlist?list=PLQfaHkBRINsxngvO_CIM74kUauPd-BGa3)**
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
-- **CS 440 Artificial Intelligence & ECE 484 Principles of Safe Autonomy**
+- **CS 440 Artificial Intelligence & ECE 484 Principles of Safe Autonomy</br>**
   NOTE: I am planning to take ECE 484 instead of CS 440!
   - **CS 440 Stuff**
     - **[0] [Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
