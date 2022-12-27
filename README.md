@@ -117,6 +117,7 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
   
 ### ARTIFICIAL INTELLIGENCE COURSES 
 - **CS 440 Artificial Intelligence & ECE 484 Principles of Safe Autonomy**
+  NOTE: I am planning to take ECE 484 instead of CS 440!
   - **CS 440 Stuff**
     - **[0] [Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
     - **[1] [UC Berkeley Artificial Intelligence](http://aima.cs.berkeley.edu/)**
