@@ -95,6 +95,7 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
   - **[2] [Fit Coder C++ Graphs Tutorial](https://youtube.com/playlist?list=PLFj4kIJmwGu3m30HfYDDufr3PZBfyngr0)**
 - **CS 357 Numerical Methods 1 Python**
    - **[0] [Professor Mariana Silva CS 357 Spring 2022](https://courses.grainger.illinois.edu/cs357/sp2022/)**
+   - **[1] REFER TO MY PYTHON STUFF ABOVE**
 - **CS 374 Introduction to Algorithms & Models of Computation**
   - **[UIUC CS/ECE 374A Spring 2018 Professor Jeff Erickson Homepage](https://courses.engr.illinois.edu/cs374/sp2018/A/)**
   - **[UIUC CS/ECE 374A Spring 2018 Professor Jeff Erickson Schedule](https://courses.engr.illinois.edu/cs374/sp2018/A/schedule.html)**
@@ -186,6 +187,7 @@ I am currently majoring in **Civil & Environmental Engineering** specializing in
  - **MATH 257 Linear Algebra with Computational Applications (Refer to Python stuff above!)</br>**
     - **[0] [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)**
     - **[1] [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)**
+    - **[2] REFER TO MY PYTHON STUFF ABOVE**
 
 - **MATH 285 Ordinary Differential Equations**
   - **[0] [Professor Leonard Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)**
