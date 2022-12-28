@@ -187,7 +187,8 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
  - **MATH 257 Linear Algebra with Computational Applications**
     - **[0] [MIT 18.08 Linear Algebra](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)**
     - **[1] [Ludus Linear Algebra Final Review](https://www.youtube.com/watch?v=9v3Sb4A0tPM&list=PLBjO5YSgeCti54iuhlWdDScg_kVYNzGGL)**
-    - **[2] REFER TO MY PYTHON STUFF ABOVE**
+    - **[2] [Armin Straub Linear Algebra Notes](http://arminstraub.com/teaching/linearalgebra-fall14)**
+    - **[3] REFER TO MY PYTHON STUFF ABOVE**
 
 - **MATH 285 Ordinary Differential Equations**
   - **[0] [Professor Leonard Ordinary Differential Equations](https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ)**
