@@ -85,8 +85,8 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
   - **[1] [CodeBeauty C++ Tutorial](https://www.youtube.com/watch?v=GQp1zzTwrIg)**
   - **[2] [Learn C++ Online](https://learncpp.online/lessons)**
 - **CS 173 Discrete Structures**
-  - **[0] [Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)**
-  - **[1] [Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)**
+  - **[0] [Kimberly Brehm Discrete Math Part 1](https://youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)**
+  - **[1] [Kimberly Brehm Discrete Math Part 2](https://youtube.com/playlist?list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ)**
   - **[2] [CS 173 Practice Materials](https://courses.grainger.illinois.edu/cs173/sp2019/A-lecture/Exams/index.html)**
   - **[3] [Jongwoo Jeon's Discrete Mathematics Wiki](https://github.com/jongwoojeff/DiscreteMathematics/wiki)**
 - **CS 225 Data Structures & Software Principles C++**
