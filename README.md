@@ -132,6 +132,7 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
    - **[3] [Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
    - **[4] [Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
    - **[5] [Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
+   - **[6] [Time-Series Forecasting](https://www.youtube.com/watch?v=tepxdcepTbY)**
 
 - **CS 443 Reinforcement Learning**
    - **[0] [Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
