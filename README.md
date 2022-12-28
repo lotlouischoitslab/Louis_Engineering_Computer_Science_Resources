@@ -120,9 +120,8 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
 - **CS 440 Artificial Intelligence & ECE 484 Principles of Safe Autonomy</br>**
   NOTE: I am planning to take ECE 484 instead of CS 440!
   - **CS 440 Stuff**
-    - **[0] [Edureka Artificial Intelligence Tutorial](https://www.youtube.com/watch?v=JMUxmLyrhSk)**
-    - **[1] [UC Berkeley Artificial Intelligence](http://aima.cs.berkeley.edu/)**
-    - **[2] [UC Berkeley CS 188 Artificial Intelligence Playlist](  https://youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)**
+    - **[0] [UC Berkeley Artificial Intelligence](http://aima.cs.berkeley.edu/)**
+    - **[1] [UC Berkeley CS 188 Artificial Intelligence Playlist](  https://youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)**
   - **ECE 484 Stuff**
     - **TBA**
   
