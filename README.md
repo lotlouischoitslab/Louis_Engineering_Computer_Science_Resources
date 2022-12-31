@@ -2,7 +2,7 @@
 All the useful resources I have been using to study for **engineering** and **computer science** courses. Courses include from **Civil & Environmental Engineering, Computer Science** and more. Many **Civil & Environmental Engineering** courses I took are **Transportation Engineering** courses because that is my primary specialization for my **CEE** major, likewise many **Computer Science** courses are **Artificial Intelligence & Big Data** courses since that is my focus area in my **CS** minor. My primary programming language is **Python** so many of my projects are programmed in **Python**. Please refer to the **00Python** folder. For full-stack web development projects, I frequently use **HTML, CSS, JavaScript** and more useful built-in packages. I also have all the **LeetCode** questions that I have been grinding in **Python** while taking **CS 374 Introduction to Algorithms & Models of Computation** at **UIUC** in the **03CODING_INTERVIEWS** folder. 
 
 ## Contributors:
-- ### Louis Sungwoo Cho 조성우
+- ### Louis Sungwoo Cho 조성우 
 
 ## Good Study Songs:
   - [Korean Rap Playlist 한국랩 모음](https://open.spotify.com/playlist/4MKcxPEZhNdkwtceHZhW3p)
