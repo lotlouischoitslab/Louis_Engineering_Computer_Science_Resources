@@ -26,6 +26,7 @@ All the useful resources I have been using to study for **engineering** and **co
  - **[1] [Corey Schafer Introductory Python Tutorial](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)**
  - **[2] [Jovian Introductory Data Structures & Algorithms Python Tutorial](https://youtu.be/pkYVOmU3MgA)**
  - **[3] [Windows 10 Prophet Installation](https://stackoverflow.com/questions/53178281/installing-fbprophet-python-on-windows-10)**
+ - **[4] [Mr. P Solver SciPy Tutorial](https://www.youtube.com/watch?v=jmX4FOUEfgU)**
  
  **파이썬 한국어 버전**
  - **[0] [나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
