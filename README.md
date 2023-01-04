@@ -63,6 +63,7 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
 - **CEE 310 Transportation Engineering (1.00)**
   - **[0] [Fundamentals of Transportation](https://en.wikibooks.org/wiki/Fundamentals_of_Transportation)**
   - **[1] [Professor Lewis Lehe Transportation Engineering Website](https://trafficvis.com/)**
+  - **[2] [Louis Sungwoo Cho's Transportation Engineering Resources](https://github.com/lotlouischoitslab/Transportation_Engineering)**
 - **CEE 320 Construction Engineering (1.50)** 
   - **[0] [Project Management for Construction](https://www.cmu.edu/cee/projects/PMbook/)**
   - **[1] [Engineer4Free Project Management](https://youtube.com/playlist?list=PLOAuB8dR35oeyKU0ojIxD8Muf6Mwc8ugW)**
