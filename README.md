@@ -21,7 +21,7 @@ All the useful resources I have been using to study for **engineering** and **co
     git push origin main
 
 ## ALL PYTHON STUFF:
-##### Python English Version
+### Python English Version
  - **[0] [Python Documentation](https://docs.python.org/3.8/tutorial/)**
  - **[1] [Corey Schafer Introductory Python Tutorial](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)**
  - **[2] [Jovian Introductory Data Structures & Algorithms Python Tutorial](https://youtu.be/pkYVOmU3MgA)**
@@ -32,7 +32,7 @@ All the useful resources I have been using to study for **engineering** and **co
  - **[7] [Tech with Tim Pygame Tutorial](https://www.youtube.com/watch?v=jO6qQDNa2UY)**
 
  
- **파이썬 한국어 버전**
+### 파이썬 한국어 버전
  - **[0] [나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
  - **[1] [GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
 
