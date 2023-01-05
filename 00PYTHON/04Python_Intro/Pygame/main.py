@@ -41,6 +41,10 @@ def main():
                 run = False
 
         keys_pressed = pygame.key.get_pressed()
+        if keys_pressed[pygame.K_a]: #Left key
+            yellow.x -= VEL
+        
+
         draw_window(red,yellow)
 
     pygame.quit()
