@@ -73,6 +73,7 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
 - **CEE 360 Structural Engineering (0.50)**
   - **[0] [Structures Free Structural Analysis](https://youtube.com/playlist?list=PL1DE2AA99E4258070)**
 - **CEE 300 Behavior of Materials (1.00)**
+  - **[0] [Dragos Andrei Civil Engineering Materials](https://github.com/lotlouischoitslab)**
 - **CEE 201 Civil & Environmental Systems Engineering & Economics**
   - **[0] [Engineer4Free Engineering Economics Tutorial](https://youtube.com/playlist?list=PLOAuB8dR35oeZR8OexafgBb0Y-nE3QqCP)**
   - **[1] [Yong Wang's Operation Research](https://youtube.com/playlist?list=PLgA4wLGrqI-ll9OSJmR5nU4lV4_aNTgKx)**
