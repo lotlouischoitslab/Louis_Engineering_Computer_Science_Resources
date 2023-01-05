@@ -28,6 +28,7 @@ All the useful resources I have been using to study for **engineering** and **co
  - **[3] [Mr. P Solver SciPy Tutorial](https://www.youtube.com/watch?v=jmX4FOUEfgU)**
  - **[4] [Time-Series Windows 10 Prophet Installation](https://stackoverflow.com/questions/53178281/installing-fbprophet-python-on-windows-10)**
  - **[5] [Time-Series Prophet Stuff](https://facebook.github.io/prophet/docs/quick_start.html)**
+ - **[6] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
 
  
  **파이썬 한국어 버전**
