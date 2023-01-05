@@ -45,6 +45,7 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
   - **CS: Computer Science**
   - **ECE: Electrical & Computer Engineering**
   - **ME: Mechanical Engineering**
+  - **AE: Aerospace Engineering**
   - **SE: Systems Engineering & Design**
   - **TAM: Theoretical & Applied Mechanics**
   - **MATH: Mathematics**
