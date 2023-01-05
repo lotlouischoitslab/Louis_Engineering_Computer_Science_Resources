@@ -129,6 +129,8 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
   - **CS 440 Stuff**
     - **[0] [UC Berkeley Artificial Intelligence](http://aima.cs.berkeley.edu/)**
     - **[1] [UC Berkeley CS 188 Artificial Intelligence Playlist](  https://youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF)**
+    - **[2] [A* Visualizer](https://www.youtube.com/watch?v=JtiK0DOeI4A)**
+    
   - **ECE 484 Stuff**
     - **TBA**
   
