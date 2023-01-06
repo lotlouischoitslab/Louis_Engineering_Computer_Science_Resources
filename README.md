@@ -117,6 +117,7 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
     - **[0] [NeetCode Website](https://www.youtube.com/c/NeetCode)**
     - **[1] [Kunal Kushwaha Recursion Tutorial](https://youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)**
     - **[2] [Lynn Zheng Backtracking Tutorial](https://www.youtube.com/watch?v=A80YzvNwqXA)**
+    - **[3] [Andrey Greyhov Dynamic Programming Tutorial](https://youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf)**
     - **[3] [NeetCode Dynamic Programming Tutorial](https://youtube.com/playlist?list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO)**
     - **[4] [Graph Theory from Google Software Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)**
     - **[5] [NeetCode Graph Algorithms](https://youtube.com/playlist?list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI)**
