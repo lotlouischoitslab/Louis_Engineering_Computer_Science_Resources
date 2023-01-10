@@ -1,5 +1,4 @@
 class Graph:
-    
     def __init__(self,nodes):
         self.nodes = nodes #Nodes in the graph network
         self.graph = dict() #Because this is an empty dictionary, I will assume this to be empty dictionary
@@ -41,3 +40,10 @@ class Graph:
     #Number of Vertices
     def numvertices(self):
         return len(self.graph)
+
+    #Print the entire Graph Network
+    def print_graph(self):
+        for node in self.nodes:
+            print(node,'->',self.graph[node])
+    
+    #Fundamental Graph Algorithms!
