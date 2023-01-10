@@ -60,5 +60,9 @@ def main():
     print('DFS')
     print(graphs1.dfs(source))
 
+    #Djikstra Testing
+    print('Djikstra')
+    print(graphs1.djikstra(source))
+
 if __name__ == '__main__':
     main()

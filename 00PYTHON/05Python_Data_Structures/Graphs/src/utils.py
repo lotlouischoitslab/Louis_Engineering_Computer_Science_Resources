@@ -1,3 +1,5 @@
+import heapq 
+
 class Graph:
     def __init__(self,nodes):
         self.nodes = nodes #Nodes in the graph network
@@ -6,6 +8,10 @@ class Graph:
         #Now I will be adding empty edges!
         for n in self.nodes:
             self.graph[n] = []
+
+    #Construct Graph
+    def constructgraph(self,file1):
+        pass 
 
     #Add edge to the graph network
     def addedge(self,u,v,weight):
@@ -98,8 +104,28 @@ class Graph:
     #Path Optimization Algorithms 
 
     #Djikstra's Single-Source Shortest Path Algorithm
+    def mindistance(self,dist,visited):
+        mind = float('inf') #initialize minimum as +inf
+
+        for node in self.nodes:
+            if node not in visited and dist[node] < mind:
+                mind = dist[node] 
+                min_node = node 
+        return min_node
+
     def djikstra(self,source):
-        pass 
+        dist = [float('inf') for i in range(len(self.nodes))]
+        visited = set() 
+        dist[source] = 0
+        
+        for i in range(len(self.nodes)):
+            u = self.mindistance(dist, visited)
+            visited.add(u)
+
+            for node,weight in self.graph[u]:
+                if node not in visited and dist[node] > dist[u]+weight:
+                    dist[node] = dist[u]+weight
+        return dist 
 
     #Bellman-Ford Algorithm
     def bellman_ford(self):
