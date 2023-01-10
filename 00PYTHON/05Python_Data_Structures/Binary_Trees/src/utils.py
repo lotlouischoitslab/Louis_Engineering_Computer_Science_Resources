@@ -4,6 +4,13 @@ class BinarySearchTree:
         self.left = None 
         self.right = None 
 
+    #Build Binary-Search-Tree
+    def build_tree(self,elements):
+        root = self.BinarySearchTree(elements[0])
+        for i in range(1,len(elements)):
+            root.add_child(elements[i])
+        return root
+
     #Add a child in BST
     def add_child(self,data):
         if data == self.data: #if the data values are the same
@@ -47,4 +54,31 @@ class BinarySearchTree:
                 self.right.search(data) #Go to the right
             else:
                 return False #Otherwise return False
+
+    #Mathematical Functions
+
+    #Maximum
+    def max_val(self):
+        if self.right is None:
+            return self.data 
+        return self.right.max_val()
+    
+    #Minimum
+    def min_val(self):
+        if self.left is None:
+            return self.data 
+        return self.left.min_val()
+
+    #Total Value 
+    def total(self):
+        if self == None:
+            return self.val 
+        return self.val + self.left.total().val + self.right.total().val
         
+    #Breadth-First-Search Algorithms for Trees
+
+    #Level Order Traversal
+
+
+
+    #Depth-First-Search Algorithms for Trees
