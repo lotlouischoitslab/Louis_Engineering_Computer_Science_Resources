@@ -48,4 +48,38 @@ class Graph:
         for node in self.nodes:
             print(node,'->',self.graph[node])
     
-    #Fundamental Graph Algorithms!
+    #Fundamental Graph Algorithms from CS 374 Introduction to Algorithms & Models of Computation! 
+
+    #Breadth-First-Search (BFS)
+    def bfs(self,source):
+        if len(self.graph) == 0: #check if the graph network is empty
+            return [] #return an empty list if the graph is empty
+        
+        visited = [False for i in range(len(self.nodes))]
+        visited[source] = True
+        queue = [source] 
+        traversed = []
+        
+        while len(queue) != 0:
+            v = queue.pop(0)
+            traversed.append(v)
+            for i in self.graph:
+                if visited[i] == False:
+                    queue.append(i)
+                    visited[i] = True
+        return traversed
+
+    #Depth-First-Search (DFS)
+    def dfs(self,source):
+        visited = set()
+        return self.dfs_recursive(source,visited,[])
+
+    #DFS Helper Function
+    def dfs_recursive(self,source,visited,to_return):
+        visited.add(source)
+        to_return.append(source)
+
+        for neighbor in self.graph[source]:
+            if neighbor[0] not in visited:
+                self.dfs_recursive(neighbor[0],visited,to_return)
+        return to_return

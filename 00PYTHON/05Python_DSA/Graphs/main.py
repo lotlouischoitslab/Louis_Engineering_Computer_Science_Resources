@@ -31,13 +31,33 @@ def main():
         'Hoehyeon', #회현
         'Myeongdong', #명동
         'Chungmuro' #충무로
-
     ] 
+
+    louis_network = Graph(station_nodes) #This should be a Graph object receiving a 1-D array
 
     #Testing Purpose
     
-    #This should be a list of nodes
-    louis_network = Graph(station_nodes) #This should be a Graph object receiving a 1-D array
+    nodes1 = [0,1,2,3,4]
+    graphs1 = Graph(nodes1)
+    graphs1.addedge(0,1,2)
+    graphs1.addedge(1,2,2)
+    graphs1.addedge(2,3,4)
+    graphs1.addedge(3,0,5)
+    graphs1.addedge(3,4,3)
+    graphs1.addedge(4,0,1)
+
+    #Print Graph
+    print('Graph')
+    graphs1.print_graph()
+
+    source = 2
+    #BFS Testing
+    print('BFS')
+    print(graphs1.bfs(source))
+
+    #DFS Testing
+    print('DFS')
+    print(graphs1.dfs(source))
 
 if __name__ == '__main__':
     main()
