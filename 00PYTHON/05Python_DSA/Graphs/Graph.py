@@ -1,11 +1,8 @@
 class Graph:
-    def __init__(self):
-        self.nodes = []
-        self.graph = dict() #Because this is an empty dictionary, I will assume this to be empty dictionary
     
     def __init__(self,nodes):
-        self.nodes = nodes 
-        self.graph = dict()
+        self.nodes = nodes #Nodes in the graph network
+        self.graph = dict() #Because this is an empty dictionary, I will assume this to be empty dictionary
 
         #Now I will be adding empty edges!
         for n in self.nodes:
