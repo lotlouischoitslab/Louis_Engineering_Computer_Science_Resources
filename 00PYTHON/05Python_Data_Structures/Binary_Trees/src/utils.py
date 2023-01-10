@@ -1,12 +1,12 @@
 class BinarySearchTree:
-    def __init__(self,data):
+    def __init__(self,data=None):
         self.data = data 
         self.left = None 
         self.right = None 
 
     #Build Binary-Search-Tree
     def build_tree(self,elements):
-        root = self.BinarySearchTree(elements[0])
+        root = BinarySearchTree(elements[0])
         for i in range(1,len(elements)):
             root.add_child(elements[i])
         return root
@@ -72,8 +72,10 @@ class BinarySearchTree:
     #Total Value 
     def total(self):
         if self == None:
-            return self.val 
-        return self.val + self.left.total().val + self.right.total().val
+            return self.data
+        left = self.left.total() if self.left else 0
+        right = self.right.total() if self.right else 0
+        return self.data + left + right
         
     #Breadth-First-Search Algorithms for Trees
 
