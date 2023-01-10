@@ -1,6 +1,6 @@
 import numpy as np 
 import pandas as pd 
-from Graph import Graph
+from src.utils import Graph
 
 '''Graphs Machine Problem
 Author: Louis Sungwoo Cho
@@ -15,7 +15,7 @@ def load_data():
 
 
 def main():
-    print('Graphs Machine Problem')
+    print('Graphs Machine Problem by Louis Sungwoo Cho')
     df = load_data()
     station_nodes = [
         'Jongno_3_Ga', #종로3가
@@ -32,7 +32,11 @@ def main():
         'Myeongdong', #명동
         'Chungmuro' #충무로
 
-    ] #This should be a list of nodes
+    ] 
+
+    #Testing Purpose
+    
+    #This should be a list of nodes
     louis_network = Graph(station_nodes) #This should be a Graph object receiving a 1-D array
 
 if __name__ == '__main__':

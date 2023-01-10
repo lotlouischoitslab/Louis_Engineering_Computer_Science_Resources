@@ -15,6 +15,8 @@ class Graph:
     def addnode(self,node):
         if node not in self.nodes:
             self.nodes.append(node)
+            if len(self.adj_list[node] == 0):
+                del self.adj_list[node] 
 
     #Remove a node/vertex in the graph network
     def removedge(self,u,v,weight):
