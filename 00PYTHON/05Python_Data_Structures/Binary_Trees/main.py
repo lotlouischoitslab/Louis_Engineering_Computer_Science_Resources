@@ -11,15 +11,17 @@ def main():
 
     numbers = [15,12,7,14,27,20,23,88]
     
-    numbers_tree = BinarySearchTree()
-    numbers_tree = numbers_tree.build_tree(numbers)
+    louis_tree = BinarySearchTree()
+    louis_tree = louis_tree.build_tree(numbers)
     print("Input numbers:",numbers)
-    # print("Min:",numbers_tree.min_val())
-    # print("Max:",numbers_tree.max_val())
-    print("Sum:", numbers_tree.total(),sum(numbers))
-    # print("In order traversal:", numbers_tree.in_order_traversal())
-    # print("Pre order traversal:", numbers_tree.pre_order_traversal())
-    # print("Post order traversal:", numbers_tree.post_order_traversal())
+    print('Height:',louis_tree.height(louis_tree))
+    print("Max:",louis_tree.max_val())
+    print("Min:",louis_tree.min_val())
+    print("Sum:", louis_tree.total())
+    print("Level order traversal:", louis_tree.level_order_bfs())
+    print("Pre-order traversal:", louis_tree.pre_order_dfs())
+    print("In-order traversal:", louis_tree.in_order_dfs())
+    print("Post order traversal:", louis_tree.post_order_dfs())
 
 if __name__ =='__main__':
     main()

@@ -57,6 +57,14 @@ class BinarySearchTree:
 
     #Mathematical Functions
 
+    #Height of BST
+    def height(self,root):
+        if root is None:
+            return -1
+        left = self.height(root.left) 
+        right = self.height(root.right)
+        return 1+max(left,right)
+
     #Maximum
     def max_val(self):
         if self.right is None:
@@ -80,7 +88,55 @@ class BinarySearchTree:
     #Breadth-First-Search Algorithms for Trees
 
     #Level Order Traversal
+    def level_order_bfs(self):
+        if self is None:
+            return []
+        queue = [self]
+        results = [self.data]
 
+        while len(queue) != 0:
+            s = queue.pop(0)
+            if s.left:
+                queue.append(s.left)
+                results.append(s.left.data)
+            if s.right:
+                queue.append(s.right)
+                results.append(s.right.data)
+
+        return results
 
 
     #Depth-First-Search Algorithms for Trees
+    #Pre-Order Traversal DFS
+    def pre_order_dfs(self):
+        results = [self.data]
+        if self.left:
+            results += self.left.pre_order_dfs()
+        if self.right:
+            results += self.right.pre_order_dfs()
+        return results 
+
+    #In-Order Traversal DFS
+    def in_order_dfs(self):
+        results = []
+
+        if self.left:
+            results += self.left.in_order_dfs()
+
+        results += [self.data]
+
+        if self.right:
+            results += self.right.in_order_dfs()
+        return results
+
+    #Post-Order DFS Traversal
+    def post_order_dfs(self):
+        results = []
+        if self.left:
+            results += self.left.post_order_dfs()
+        
+        if self.right:
+            results += self.right.post_order_dfs()
+        
+        results+=[self.data]
+        return results
