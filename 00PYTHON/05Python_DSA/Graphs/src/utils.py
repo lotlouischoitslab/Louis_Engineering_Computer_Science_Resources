@@ -9,7 +9,7 @@ class Graph:
 
     #Add edge to the graph network
     def addedge(self,u,v,weight):
-        self.graph[u].append([v,weight])
+        self.graph[u].append([v,weight]) #What this means is that 'A':[['B',10]]
     
     #Add a node/vertex to the graph network
     def addnode(self,node):
@@ -50,6 +50,12 @@ class Graph:
     
     #Fundamental Graph Algorithms from CS 374 Introduction to Algorithms & Models of Computation! 
 
+    #Search Algorithms 
+
+    #A* Search Algorithm
+    def astar(self,source):
+        pass 
+
     #Breadth-First-Search (BFS)
     def bfs(self,source):
         if len(self.graph) == 0: #check if the graph network is empty
@@ -74,7 +80,7 @@ class Graph:
         visited = set()
         return self.dfs_recursive(source,visited,[])
 
-    #DFS Helper Function
+    #DFS Recursive Helper Function
     def dfs_recursive(self,source,visited,to_return):
         visited.add(source)
         to_return.append(source)
@@ -83,3 +89,32 @@ class Graph:
             if neighbor[0] not in visited:
                 self.dfs_recursive(neighbor[0],visited,to_return)
         return to_return
+
+    #Topological Sort Algorithm
+    def topologicalsort():
+        pass
+
+
+    #Path Optimization Algorithms 
+
+    #Djikstra's Single-Source Shortest Path Algorithm
+    def djikstra(self,source):
+        pass 
+
+    #Bellman-Ford Algorithm
+    def bellman_ford(self):
+        pass 
+
+    #Floyd-Warshall Algorithm
+    def floyd_warshall(self):
+        pass
+
+    #Minimum Spanning Tree Algorithms
+
+    #Kruskal's Algorithm
+    def kruskal(self):
+        pass
+
+    #Prim's Algorithm
+    def prims(self,source):
+        pass
