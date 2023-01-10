@@ -37,6 +37,21 @@ class BinarySearchTree:
             if self.left:
                 self.left = self.left.delete_child(data)
         
+        elif data > self.data:
+            if self.right:
+                self.right = self.right.delete_child(data)
+        else:
+            if self.left is None and self.right is None:
+                return None 
+            elif self.left is None:
+                return self.right 
+            elif self.right is None:
+                return self.left 
+            
+            min_val = self.right.min_val()
+            self.data = min_val 
+            self.right = self.right.delete_child(min_val)
+        return self 
 
     #Search function in a BST
     def search(self,data):
