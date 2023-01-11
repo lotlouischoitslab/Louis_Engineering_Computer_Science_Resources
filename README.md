@@ -20,7 +20,7 @@ All the useful resources I have been using to study for **engineering** and **co
     git commit -m "commiting files to my GitHub repository"
     git push origin main
 
-## ALL PYTHON STUFF:
+# ALL PYTHON STUFF:
  - ## Introduction to Python
  - **[0] [Python Documentation](https://docs.python.org/3.8/tutorial/)**
  - **[1] [Corey Schafer Introductory Python Tutorial](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)**
