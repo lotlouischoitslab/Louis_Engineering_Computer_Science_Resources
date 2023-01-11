@@ -22,15 +22,20 @@ All the useful resources I have been using to study for **engineering** and **co
 
 ## ALL PYTHON STUFF:
 ### Python English Version
+ - ## Introduction to Python
  - **[0] [Python Documentation](https://docs.python.org/3.8/tutorial/)**
  - **[1] [Corey Schafer Introductory Python Tutorial](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)**
  - **[2] [Tech with Tim Object-Oriented Programming in Python](https://www.youtube.com/watch?v=JeznW_7DlB0)**
- - **[3] [Jovian Introductory Data Structures & Algorithms Python Tutorial](https://youtu.be/pkYVOmU3MgA)**
- - **[4] [Mr. P Solver SciPy Tutorial](https://www.youtube.com/watch?v=jmX4FOUEfgU)**
- - **[5] [Time-Series Windows 10 Prophet Installation](https://stackoverflow.com/questions/53178281/installing-fbprophet-python-on-windows-10)**
- - **[6] [Time-Series Prophet Stuff](https://facebook.github.io/prophet/docs/quick_start.html)**
- - **[7] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
- - **[8] [Tech with Tim Pygame Tutorial](https://www.youtube.com/watch?v=jO6qQDNa2UY)**
+ - **[3] [Tech with Tim Pygame Tutorial](https://www.youtube.com/watch?v=jO6qQDNa2UY)**
+ - ## Data Structures in Python
+ - **[0] [Jovian Introductory Data Structures & Algorithms Python Tutorial](https://youtu.be/pkYVOmU3MgA)**
+ - ## Data Science & Analytics in Python
+ - **[0] [Mr. P Solver SciPy Tutorial](https://www.youtube.com/watch?v=jmX4FOUEfgU)**
+ - **[1] [Time-Series Windows 10 Prophet Installation](https://stackoverflow.com/questions/53178281/installing-fbprophet-python-on-windows-10)**
+ - **[2] [Time-Series Prophet Stuff](https://facebook.github.io/prophet/docs/quick_start.html)**
+ - **[3] [Professor Wade Fagen-Ulmschneider and Karlie Flanagan's guide to Data Science with Python](https://discovery.cs.illinois.edu/learn/)**
+ - ## System Programming in Python
+ - **[0] [Tech with Tim Python Socket Programming](https://www.youtube.com/watch?v=3QiPPX-KeSc)**
 
  
 ### 파이썬 한국어 버전
