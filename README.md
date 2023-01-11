@@ -29,6 +29,8 @@ All the useful resources I have been using to study for **engineering** and **co
  - **[3] [Tech with Tim Pygame Tutorial](https://www.youtube.com/watch?v=jO6qQDNa2UY)**
  - ## Data Structures in Python
  - **[0] [Jovian Introductory Data Structures & Algorithms Python Tutorial](https://youtu.be/pkYVOmU3MgA)**
+ - ## Algorithms in Python
+ - **[0] Scroll down to CS 374**
  - ## Data Science & Analytics in Python
  - **[0] [Mr. P Solver SciPy Tutorial](https://www.youtube.com/watch?v=jmX4FOUEfgU)**
  - **[1] [Time-Series Windows 10 Prophet Installation](https://stackoverflow.com/questions/53178281/installing-fbprophet-python-on-windows-10)**
