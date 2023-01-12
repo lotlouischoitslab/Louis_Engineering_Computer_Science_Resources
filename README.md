@@ -153,7 +153,7 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
    - **[1] [Codebasics Machine Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)**
    - **[2] [Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
    - **[3] [Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
-   - **[4] [Time-Series Forecasting](https://www.youtube.com/watch?v=tepxdcepTbY)**
+   - **[4] [DigitalSreeni Time-Series Forecasting](https://www.youtube.com/watch?v=tepxdcepTbY)**
 
 - **CS 443 Reinforcement Learning**
    - **[0] [Deeplizard Reinforcement Learning](https://youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)**
