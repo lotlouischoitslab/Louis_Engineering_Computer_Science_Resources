@@ -42,7 +42,7 @@ All the useful resources I have been using to study for **engineering** and **co
  - **[0] [Tech with Tim Python Socket Programming](https://www.youtube.com/watch?v=3QiPPX-KeSc)**
 
  
-### 파이썬 한국어 버전
+- ## 파이썬 한국어 버전
  - **[0] [나도코딩 파이썬 기초](https://www.youtube.com/watch?v=kWiCuklohdY)**
  - **[1] [GongbroDesk 파이썬 기초](https://www.youtube.com/watch?v=8_VWnRvbGPs)**
 
