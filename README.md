@@ -153,13 +153,12 @@ I am majoring in **Civil & Environmental Engineering** specializing in **Transpo
    - **[1] [Codebasics Machine Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)**
    - **[2] [Derek Banas Time Series Forecasting Tutorial](https://www.youtube.com/watch?v=_4cpUXTUoXk&t=595s)**
    - **[3] [Jovian Machine Learning in Python](https://youtube.com/playlist?list=PLyMom0n-MBrq-KvGy4TSEa3PQnZ03OoM6)**
-   - **[4] [Learn Python with Rune Machine Learning Tutorial](https://youtube.com/playlist?list=PLvMRWNpDTNwQZkB840U2d9JFXcA8spGMF)**
-   - **[5] [Data-Driven Science & Engineering](https://youtube.com/playlist?list=PLMrJAkhIeNNRpsRhXTMt8uJdIGz9-X_1-)**
-   - **[6] [Time-Series Forecasting](https://www.youtube.com/watch?v=tepxdcepTbY)**
+   - **[4] [Time-Series Forecasting](https://www.youtube.com/watch?v=tepxdcepTbY)**
 
 - **CS 443 Reinforcement Learning**
-   - **[0] [Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
-   - **[1] [Andreas Geiger Self-Driving Cars](https://youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)**
+   - **[0] [Deeplizard Reinforcement Learning](https://youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)**
+   - **[1] [Nicholas Renotte RL Tutorial](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=3606s)**
+   - **[2] [Andreas Geiger Self-Driving Cars](https://youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)**
 
 - **CS 444 Deep Learning for Computer Vision**
    - **[0] [Codebasics Deep Learning Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)**
